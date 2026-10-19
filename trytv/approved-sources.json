@@ -1,56 +1,44 @@
 {
   "schema": 1,
-  "revision": "5903224bb5c8d4893c11fbf3c892f7a4ab3c6b9eeeec869e9358cc9b23e42b8c",
-  "publishedAt": "2026-10-19T05:53:31.989914+00:00",
+  "revision": "59919ef3b8f0ebbfbfe980bdbe8b0987f4bcedf9c2400165b10217161b4d5801",
+  "publishedAt": "2026-10-19T06:20:21.778358+00:00",
   "sources": [
     {
-      "contentType": "mixed",
-      "function": "collect",
-      "section": "comics",
-      "review": {
-        "countVerifiedAt": "2026-10-18T03:05:16.989Z",
-        "sourcePages": 8,
-        "passed": true,
-        "totalWorksIsEstimate": false,
-        "checkedAt": "2026-10-18T03:05:29.822Z",
-        "archiveComplete": true,
-        "totalWorks": 388,
-        "countPagesChecked": 8,
-        "viewerReady": true
-      },
-      "adapter": "kawaii-public-catalog-v1",
-      "url": "https://kawaiimanga.org/browse",
-      "mediaType": "manhwa",
-      "hiddenWorks": [],
-      "requestedFunction": "collect",
-      "isPrimary": false,
+      "enabled": true,
       "name": "Kawaiimanga",
+      "function": "collect",
+      "hiddenWorks": [],
+      "isPrimary": false,
+      "adapter": "kawaii-public-catalog-v1",
+      "review": {
+        "passed": true,
+        "checkedAt": "2026-10-18T03:05:29.822Z",
+        "totalWorks": 388,
+        "archiveComplete": true,
+        "countPagesChecked": 8,
+        "mode": "provider-live",
+        "viewerReady": true,
+        "countVerifiedAt": "2026-10-18T03:05:16.989Z",
+        "worksSeen": 50,
+        "totalWorksIsEstimate": false,
+        "sourcePages": 8
+      },
+      "section": "comics",
+      "classificationMode": "auto_country",
+      "mediaType": "manhwa",
       "routing": {
         "schema": 1,
         "totalWorks": 388,
         "generatedAt": "2026-10-18T03:05:25.751780+00:00"
       },
-      "enabled": true,
-      "classificationMode": "auto_country"
+      "contentType": "mixed",
+      "url": "https://kawaiimanga.org/browse",
+      "requestedFunction": "collect"
     },
     {
-      "contentType": "mixed",
+      "enabled": true,
+      "name": "Olympustaff",
       "function": "collect",
-      "section": "comics",
-      "review": {
-        "countVerifiedAt": "2026-10-18T02:22:27.146955+00:00",
-        "sourcePages": 33,
-        "passed": true,
-        "totalWorksIsEstimate": false,
-        "checkedAt": "2026-10-18T02:22:35.886Z",
-        "archiveComplete": true,
-        "totalWorks": 1311,
-        "countPagesChecked": 33,
-        "viewerReady": true
-      },
-      "adapter": "generic-comics-v1",
-      "url": "https://olympustaff.com/",
-      "mediaType": "manhwa",
       "hiddenWorks": [
         "https://olympustaff.com/series/adventures-of-an-undead-who-became-paladin",
         "https://olympustaff.com/series/all-marvel-dc-crossovers",
@@ -86,62 +74,64 @@
         "https://olympustaff.com/series/there-are-no-bad-heroes-in-this-world",
         "https://olympustaff.com/series/wind-breaker"
       ],
-      "requestedFunction": "collect",
       "isPrimary": false,
-      "name": "Olympustaff",
+      "adapter": "generic-comics-v1",
+      "review": {
+        "passed": true,
+        "checkedAt": "2026-10-18T02:22:35.886Z",
+        "totalWorks": 1311,
+        "archiveComplete": true,
+        "countPagesChecked": 33,
+        "mode": "provider-live",
+        "viewerReady": true,
+        "countVerifiedAt": "2026-10-18T02:22:27.146955+00:00",
+        "worksSeen": 55,
+        "totalWorksIsEstimate": false,
+        "sourcePages": 33
+      },
+      "section": "comics",
+      "classificationMode": "auto_country",
+      "mediaType": "manhwa",
       "routing": {
         "schema": 1,
         "totalWorks": 1311,
         "generatedAt": "2026-10-18T02:22:33.062949+00:00"
       },
-      "enabled": true,
-      "classificationMode": "auto_country"
+      "contentType": "mixed",
+      "url": "https://olympustaff.com/",
+      "requestedFunction": "collect"
     },
     {
-      "contentType": "mixed",
+      "enabled": true,
+      "name": "RistoAnime",
       "function": "combined",
-      "section": "anime",
-      "review": {
-        "passed": true,
-        "pagesChecked": 241,
-        "archiveComplete": false,
-        "totalWorks": 443,
-        "reviewedAt": "2026-10-18T00:50:40.269138+00:00",
-        "viewerReady": true
-      },
-      "adapter": "risto-series-v1",
-      "url": "https://ristoanime.me/",
-      "mediaType": "anime",
       "hiddenWorks": [],
       "isPrimary": true,
-      "name": "RistoAnime",
+      "adapter": "risto-series-v1",
+      "review": {
+        "passed": true,
+        "totalWorks": 443,
+        "archiveComplete": false,
+        "reviewedAt": "2026-10-18T00:50:40.269138+00:00",
+        "viewerReady": true,
+        "pagesChecked": 241
+      },
+      "section": "anime",
+      "classificationMode": "auto_country",
+      "mediaType": "anime",
       "routing": {
         "schema": 1,
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "enabled": true,
-      "displayUrl": "https://ristoanime.me/",
-      "classificationMode": "auto_country"
+      "contentType": "mixed",
+      "url": "https://ristoanime.me/",
+      "displayUrl": "https://ristoanime.me/"
     },
     {
-      "contentType": "mixed",
+      "enabled": true,
+      "name": "TopCinema – المسلسلات الأجنبية",
       "function": "collect",
-      "section": "series",
-      "review": {
-        "countVerifiedAt": "2026-10-18T19:17:42.193926+00:00",
-        "sourcePages": 64,
-        "passed": true,
-        "totalWorksIsEstimate": false,
-        "checkedAt": "2026-10-18T18:57:08.412Z",
-        "archiveComplete": true,
-        "totalWorks": 1907,
-        "countPagesChecked": 64,
-        "viewerReady": true
-      },
-      "adapter": "topcinema-video-v1",
-      "url": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/",
-      "mediaType": "series",
       "hiddenWorks": [
         "https://web5.topcinema.fan/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ancient-apocalypse-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
         "https://web5.topcinema.fan/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-better-than-us-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
@@ -165,67 +155,75 @@
         "https://web5.topcinema.fan/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-vampirina-teenage-vampire-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/"
       ],
       "isPrimary": false,
-      "name": "TopCinema – المسلسلات الأجنبية",
+      "adapter": "topcinema-video-v1",
+      "review": {
+        "passed": true,
+        "checkedAt": "2026-10-18T18:57:08.412Z",
+        "totalWorks": 1907,
+        "archiveComplete": true,
+        "readerType": "video",
+        "countPagesChecked": 64,
+        "mode": "provider-live",
+        "viewerReady": true,
+        "verifiedWatchPage": "https://web5.topcinema.fan/%d9%85%d8%b3%d9%84%d8%b3%d9%84-treasure-island-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/watch/",
+        "countVerifiedAt": "2026-10-18T19:17:42.193926+00:00",
+        "worksSeen": 30,
+        "totalWorksIsEstimate": false,
+        "sourcePages": 64
+      },
+      "section": "series",
+      "classificationMode": "auto_country",
+      "mediaType": "series",
       "routing": {
         "schema": 1,
         "totalWorks": 1907,
         "generatedAt": "2026-10-18T20:00:55.460966+00:00"
       },
-      "enabled": true,
-      "displayUrl": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/",
-      "classificationMode": "auto_country"
+      "contentType": "mixed",
+      "url": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/",
+      "displayUrl": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/"
     },
     {
-      "contentType": "mixed",
+      "enabled": true,
+      "name": "TopCinema – المسلسلات الآسيوية",
       "function": "collect",
-      "section": "series",
-      "review": {
-        "countVerifiedAt": "2026-10-18T19:13:58.760Z",
-        "sourcePages": 60,
-        "passed": true,
-        "totalWorksIsEstimate": false,
-        "checkedAt": "2026-10-18T18:57:19.512Z",
-        "archiveComplete": true,
-        "totalWorks": 1775,
-        "countPagesChecked": 60,
-        "viewerReady": true
-      },
-      "adapter": "topcinema-video-v1",
-      "url": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
-      "mediaType": "series",
       "hiddenWorks": [
         "https://web5.topcinema.fan/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-rampas-cintaku-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
         "https://web5.topcinema.fan/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-imperial-coroner-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/"
       ],
       "isPrimary": false,
-      "name": "TopCinema – المسلسلات الآسيوية",
+      "adapter": "topcinema-video-v1",
+      "review": {
+        "passed": true,
+        "checkedAt": "2026-10-18T18:57:19.512Z",
+        "totalWorks": 1775,
+        "archiveComplete": true,
+        "readerType": "video",
+        "countPagesChecked": 60,
+        "mode": "provider-live",
+        "viewerReady": true,
+        "verifiedWatchPage": "https://web5.topcinema.fan/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d9%81%d9%82%d9%88%d8%af%d9%88%d9%86-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1%d8%a9-lost-10-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/watch/",
+        "countVerifiedAt": "2026-10-18T19:13:58.760Z",
+        "worksSeen": 30,
+        "totalWorksIsEstimate": false,
+        "sourcePages": 60
+      },
+      "section": "series",
+      "classificationMode": "auto_country",
+      "mediaType": "series",
       "routing": {
         "schema": 1,
         "totalWorks": 1775,
         "generatedAt": "2026-10-18T19:14:28.202032+00:00"
       },
-      "enabled": true,
-      "displayUrl": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
-      "classificationMode": "auto_country"
+      "contentType": "mixed",
+      "url": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
+      "displayUrl": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/"
     },
     {
-      "contentType": "mixed",
+      "enabled": true,
+      "name": "Topcinema",
       "function": "collect",
-      "section": "anime",
-      "review": {
-        "countVerifiedAt": "2026-10-18T05:37:09.263332+00:00",
-        "sourcePages": 31,
-        "passed": true,
-        "totalWorksIsEstimate": false,
-        "checkedAt": "2026-10-18T03:40:49.802Z",
-        "archiveComplete": true,
-        "totalWorks": 930,
-        "countPagesChecked": 31,
-        "viewerReady": true
-      },
-      "adapter": "topcinema-video-v1",
-      "url": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
-      "mediaType": "anime",
       "hiddenWorks": [
         "https://web5.topcinema.fan/series/%d8%a7%d9%86%d9%85%d9%8a-ao-no-miburo-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
         "https://web5.topcinema.fan/series/%d8%a7%d9%86%d9%85%d9%8a-arknights-fuyukomori-kaerimichi-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
@@ -244,47 +242,69 @@
         "https://web5.topcinema.fan/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-unicorn-academy-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/"
       ],
       "isPrimary": false,
-      "name": "Topcinema",
+      "adapter": "topcinema-video-v1",
+      "review": {
+        "passed": true,
+        "checkedAt": "2026-10-18T03:40:49.802Z",
+        "totalWorks": 930,
+        "archiveComplete": true,
+        "readerType": "video",
+        "countPagesChecked": 31,
+        "mode": "provider-live",
+        "viewerReady": true,
+        "verifiedWatchPage": "https://web5.topcinema.fan/%d8%a7%d9%86%d9%85%d9%8a-seitokai-ni-mo-ana-wa-aru-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/watch/",
+        "countVerifiedAt": "2026-10-18T05:37:09.263332+00:00",
+        "worksSeen": 30,
+        "totalWorksIsEstimate": false,
+        "sourcePages": 31
+      },
+      "section": "anime",
+      "classificationMode": "auto_country",
+      "mediaType": "anime",
       "routing": {
         "schema": 1,
         "totalWorks": 930,
         "generatedAt": "2026-10-18T05:38:06.539223+00:00"
       },
-      "enabled": true,
-      "displayUrl": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
-      "classificationMode": "auto_country"
+      "contentType": "mixed",
+      "url": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
+      "displayUrl": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/"
     },
     {
-      "contentType": "mixed",
+      "enabled": true,
+      "hiddenServers": [],
+      "name": "TopCinema",
       "function": "collect",
-      "section": "movies",
-      "serverVisibilityRevision": 2,
-      "review": {
-        "countVerifiedAt": "2026-10-18T17:09:36.449Z",
-        "sourcePages": 67,
-        "passed": true,
-        "totalWorksIsEstimate": false,
-        "checkedAt": "2026-10-18T08:39:41.681Z",
-        "archiveComplete": true,
-        "totalWorks": 4010,
-        "countPagesChecked": 67,
-        "viewerReady": true
-      },
-      "adapter": "topcinema-video-v1",
-      "url": "https://web5.topcinema.fan/movies/",
-      "mediaType": "movies",
       "hiddenWorks": [],
       "isPrimary": false,
-      "name": "TopCinema",
+      "adapter": "topcinema-video-v1",
+      "review": {
+        "passed": true,
+        "checkedAt": "2026-10-18T08:39:41.681Z",
+        "totalWorks": 4010,
+        "archiveComplete": true,
+        "readerType": "movie",
+        "countPagesChecked": 67,
+        "mode": "provider-live",
+        "viewerReady": true,
+        "verifiedWatchPage": "https://web5.topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-wuthering-heights-the-house-of-the-damned-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+        "countVerifiedAt": "2026-10-18T17:09:36.449Z",
+        "worksSeen": 60,
+        "totalWorksIsEstimate": false,
+        "sourcePages": 67
+      },
+      "serverVisibilityRevision": 2,
+      "section": "movies",
+      "classificationMode": "auto_country",
+      "mediaType": "movies",
       "routing": {
         "schema": 1,
         "totalWorks": 4010,
         "generatedAt": "2026-10-18T17:23:23.217212+00:00"
       },
-      "enabled": true,
-      "hiddenServers": [],
-      "displayUrl": "https://web5.topcinema.fan/movies/",
-      "classificationMode": "auto_country"
+      "contentType": "mixed",
+      "url": "https://web5.topcinema.fan/movies/",
+      "displayUrl": "https://web5.topcinema.fan/movies/"
     }
   ]
 }
