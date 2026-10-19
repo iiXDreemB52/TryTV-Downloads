@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "3caa96d245f80c3afd6cd579265d2b178743ae82ea92e06e1aa49c2b0bb3920f",
-  "publishedAt": "2026-10-19T19:25:14.665029+00:00",
+  "revision": "853f96c1414d6321ae4f58e1d9a25882692d3c5fd8320e295ca1b570f4996429",
+  "publishedAt": "2026-10-19T19:48:55.693006+00:00",
   "sources": [
     {
       "section": "movies",
@@ -273,7 +273,9 @@
       "section": "anime",
       "contentType": "mixed",
       "name": "RistoAnime",
-      "hiddenWorks": [],
+      "hiddenWorks": [
+        "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-dreamland-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/"
+      ],
       "enabled": true,
       "adapter": "risto-series-v1",
       "mediaType": "anime",
