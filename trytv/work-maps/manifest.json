@@ -1,7 +1,144 @@
 {
   "schema": 1,
-  "revision": 0,
-  "publishedAt": "2026-10-19T00:00:00.000Z",
-  "sources": {},
-  "shards": []
+  "revision": 1,
+  "publishedAt": "2026-10-19T18:48:20.542Z",
+  "sources": {
+    "https://web5.topcinema.fan/movies/": {
+      "workCount": 477
+    },
+    "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/": {
+      "workCount": 915
+    },
+    "https://kawaiimanga.org/browse": {
+      "workCount": 105
+    },
+    "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/": {
+      "workCount": 809
+    },
+    "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/": {
+      "workCount": 165
+    },
+    "https://olympustaff.com/": {
+      "workCount": 4
+    },
+    "https://ristoanime.me/": {
+      "workCount": 449
+    }
+  },
+  "shards": [
+    {
+      "path": "shard-0000.json",
+      "sourceUrl": "https://web5.topcinema.fan/movies/",
+      "count": 200,
+      "sha256": "4703dba893c6af5032efe51133fe911758685b1c648ff9da00d5317bab9f929a"
+    },
+    {
+      "path": "shard-0001.json",
+      "sourceUrl": "https://web5.topcinema.fan/movies/",
+      "count": 200,
+      "sha256": "ce9ec193ad68406119422ff41bb6dac8877f7d2226a503541aa9a8ed3b17dba6"
+    },
+    {
+      "path": "shard-0002.json",
+      "sourceUrl": "https://web5.topcinema.fan/movies/",
+      "count": 77,
+      "sha256": "e7005c31d9d24509148c5c660d67ced3b109b4ee5ccd540396c363f447b1478d"
+    },
+    {
+      "path": "shard-0003.json",
+      "sourceUrl": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
+      "count": 200,
+      "sha256": "fbe9e53c744e82db31385dd4a3b34e3ba100fcab8c7d6c769660f9165e04f94d"
+    },
+    {
+      "path": "shard-0004.json",
+      "sourceUrl": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
+      "count": 200,
+      "sha256": "5b62d7a5aa38aa85d08b76d47e48847cd5805a838b9c257b1176a8f499a51fb5"
+    },
+    {
+      "path": "shard-0005.json",
+      "sourceUrl": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
+      "count": 200,
+      "sha256": "3c3c8e640b7b6d9e8de070217dd195d9754676b3286e8e728c9f1a997832aa03"
+    },
+    {
+      "path": "shard-0006.json",
+      "sourceUrl": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
+      "count": 200,
+      "sha256": "ba80ab325ed124423e509e714c943c1d17c2e28cc895bf606b2764fade5bec2f"
+    },
+    {
+      "path": "shard-0007.json",
+      "sourceUrl": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
+      "count": 115,
+      "sha256": "b32cce0a58ce8fab26f2ff0d2ac654e3ed3862da89ce69065d007c2b70504432"
+    },
+    {
+      "path": "shard-0008.json",
+      "sourceUrl": "https://kawaiimanga.org/browse",
+      "count": 105,
+      "sha256": "11178660d634a23cfb8ddf524e175a46184b627f83ce88337573c1ded7878f4f"
+    },
+    {
+      "path": "shard-0009.json",
+      "sourceUrl": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
+      "count": 200,
+      "sha256": "1dc1dacc017411397a921111db19b807c3b68285fd8519db0fe900571ae85b5f"
+    },
+    {
+      "path": "shard-0010.json",
+      "sourceUrl": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
+      "count": 200,
+      "sha256": "04b442772286f5b8b3732dc425491d917a4d5daf56b74c643261229f6bf8f787"
+    },
+    {
+      "path": "shard-0011.json",
+      "sourceUrl": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
+      "count": 200,
+      "sha256": "05cd6c59c3750e078926575632171fa152cbea385e493e7617a08023ee0ea5a9"
+    },
+    {
+      "path": "shard-0012.json",
+      "sourceUrl": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
+      "count": 200,
+      "sha256": "407c680c21089f4e3e43181e8b0545f66baf078b297755c021551147c39b28c6"
+    },
+    {
+      "path": "shard-0013.json",
+      "sourceUrl": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
+      "count": 9,
+      "sha256": "61d9ebaecef5e1892849356c7f345ce861a8224539798d17a24254c47efde22f"
+    },
+    {
+      "path": "shard-0014.json",
+      "sourceUrl": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/",
+      "count": 165,
+      "sha256": "8fdaaeceeb06c1d8d8701d92ee513808ae4b9d49c182c8cf5638a4d6b51fc6e1"
+    },
+    {
+      "path": "shard-0015.json",
+      "sourceUrl": "https://olympustaff.com/",
+      "count": 4,
+      "sha256": "e010d947a63607dad16c3a88b241d209e65eaf37b7586a2f223e8facd8662542"
+    },
+    {
+      "path": "shard-0016.json",
+      "sourceUrl": "https://ristoanime.me/",
+      "count": 200,
+      "sha256": "cc51106f822a1310fb66b0003867869b254551fad4a0e11fff8087953a1715d5"
+    },
+    {
+      "path": "shard-0017.json",
+      "sourceUrl": "https://ristoanime.me/",
+      "count": 200,
+      "sha256": "7e8bee1febefc0cec4f180c4322532d6584e61f67df07e67012187af9113ebf5"
+    },
+    {
+      "path": "shard-0018.json",
+      "sourceUrl": "https://ristoanime.me/",
+      "count": 49,
+      "sha256": "c7d7d811815416c58afe5d861e2ffa72acfe2b8a979ec6f8ccfd877bbf5d2a41"
+    }
+  ]
 }
