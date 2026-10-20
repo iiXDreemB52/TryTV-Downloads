@@ -28,6 +28,9 @@ function owned(link,source){
  }catch{return false}
 }
 function pathOf(raw){try{return decodeURIComponent(new URL(raw).pathname).normalize('NFKC').replace(/\/+$/,'').toLowerCase()}catch{return ''}}
+// Prevent adding a URL that is already registered under a different episode
+// number or URL encoding. Server ownership is based on the URL, not its label.
+function sameEpisodeUrl(a,b){return !!group(a)&&group(a)===group(b)&&pathOf(a)===pathOf(b)}
 function episodePattern(raw,kind){
  const p=pathOf(raw),g=group(raw);if(!p||!g)return null;
  // Video episode slugs (including sources added later with the same scheme).
@@ -79,7 +82,7 @@ function candidates(url){
   if(!owned(url,entry.route.sourceUrl))return false;
   const x=episodePattern(url,entry.route.kind);
   return x?.key===p.key&&!entry.route.entries.some(ep=>
-   Number(ep.number)===p.number&&episodePattern(ep.link,entry.route.kind)?.key===p.key);
+   sameEpisodeUrl(ep.link,url)||(Number(ep.number)===p.number&&episodePattern(ep.link,entry.route.kind)?.key===p.key));
  }).map(item=>({item,number:p.number,p}));
 }
 const MAX_BODY=2100000;
@@ -199,7 +202,8 @@ async function pool(tasks,limit=5){
     for(const {item,number,p} of matches){
      const route=item.route;
      if(!route.entries.some(e=>episodePattern(e.link,route.kind)?.key===p.key))continue;
-     if(route.entries.some(e=>Number(e.number)===number&&episodePattern(e.link,route.kind)?.key===p.key))continue;
+     if(route.entries.some(e=>sameEpisodeUrl(e.link,link)||
+       (Number(e.number)===number&&episodePattern(e.link,route.kind)?.key===p.key)))continue;
      const older=route.entries.find(e=>episodePattern(e.link,route.kind)?.key===p.key);
      const descending=route.entries.length>1&&
       Number(route.entries[0].number)>Number(route.entries.at(-1).number);
