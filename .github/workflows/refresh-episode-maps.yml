@@ -1,7 +1,7 @@
 name: Refresh verified episode maps
 on:
   schedule:
-    - cron: '17 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -14,7 +14,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 4
     steps:
       - uses: actions/checkout@v4
         with:
@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: '22'
       - name: Fetch and merge publisher-confirmed new episodes
-        run: node scripts/refresh-episode-routes.cjs --rolling=25
+        run: node scripts/refresh-episode-routes.cjs --per-source=3
       - name: Validate central map hashes and route indexes
         run: |
           node scripts/validate-episode-maps.cjs
