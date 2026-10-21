@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "be4366ba34ff9e17d33164316498651db3eebf5e96295546c23eb23a9fc98c39",
-  "publishedAt": "2026-10-21T12:08:24.233387+00:00",
+  "revision": "2108d340e4ce06742c003c976cea43dc70e7a84164b743b99ce96086b55d9f44",
+  "publishedAt": "2026-10-21T12:11:59.990329+00:00",
   "sources": [
     {
       "section": "anime",
@@ -865,20 +865,14 @@
       },
       "isPrimary": false,
       "function": "collect",
-      "hiddenServers": [
-        "byse",
-        "doodstream",
-        "firestream",
-        "lulustream",
-        "streamtape"
-      ],
+      "hiddenServers": [],
       "displayUrl": "https://web5.topcinema.fan/movies/",
       "routing": {
         "schema": 1,
         "totalWorks": 4010,
         "generatedAt": "2026-10-18T17:23:23.217212+00:00"
       },
-      "serverVisibilityRevision": 4
+      "serverVisibilityRevision": 9
     },
     {
       "section": "series",
