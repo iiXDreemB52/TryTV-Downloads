@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "7b838c32ced98d35745e68dc28a149e445a28ec7a920e80243e47bd41ca5f1d5",
-  "publishedAt": "2026-10-21T01:46:53.762572+00:00",
+  "revision": "ada5e379f69e894ede82709b491e5c5de827b74feb3f6479d57e5a491a6037e5",
+  "publishedAt": "2026-10-21T01:48:39.074522+00:00",
   "sources": [
     {
       "section": "anime",
@@ -216,7 +216,7 @@
       "function": "collect",
       "hiddenServers": [],
       "displayUrl": "https://animezid.org/category.php?cat=dubbed-anime",
-      "loadingScreenEnabled": false,
+      "loadingScreenEnabled": true,
       "dubbed": true
     },
     {
