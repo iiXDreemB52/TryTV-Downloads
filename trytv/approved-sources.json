@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "c10e23f4be921664b51924e715fc3de1f375bcc20c20a79da1cebdbd52e9b431",
-  "publishedAt": "2026-10-21T02:24:37.550183+00:00",
+  "revision": "e8cdd544d4f9ce11f2714e5e503c3966e912e1c299771f2d760386721655b4d1",
+  "publishedAt": "2026-10-21T02:55:10.342869+00:00",
   "sources": [
     {
       "section": "anime",
@@ -727,7 +727,9 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [
+        "byse",
         "doodstream",
+        "firestream",
         "lulustream",
         "streamtape"
       ],
@@ -737,7 +739,7 @@
         "totalWorks": 1907,
         "generatedAt": "2026-10-18T20:00:55.460966+00:00"
       },
-      "serverVisibilityRevision": 1
+      "serverVisibilityRevision": 2
     },
     {
       "section": "series",
@@ -770,7 +772,9 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [
+        "byse",
         "doodstream",
+        "firestream",
         "lulustream",
         "streamtape"
       ],
@@ -780,7 +784,7 @@
         "totalWorks": 1775,
         "generatedAt": "2026-10-18T19:14:28.202032+00:00"
       },
-      "serverVisibilityRevision": 1
+      "serverVisibilityRevision": 2
     },
     {
       "section": "anime",
@@ -826,7 +830,9 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [
+        "byse",
         "doodstream",
+        "firestream",
         "lulustream",
         "streamtape"
       ],
@@ -836,7 +842,7 @@
         "totalWorks": 930,
         "generatedAt": "2026-10-18T05:38:06.539223+00:00"
       },
-      "serverVisibilityRevision": 1
+      "serverVisibilityRevision": 2
     },
     {
       "section": "movies",
@@ -866,7 +872,9 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [
+        "byse",
         "doodstream",
+        "firestream",
         "lulustream",
         "streamtape"
       ],
@@ -876,7 +884,7 @@
         "totalWorks": 4010,
         "generatedAt": "2026-10-18T17:23:23.217212+00:00"
       },
-      "serverVisibilityRevision": 3
+      "serverVisibilityRevision": 4
     },
     {
       "section": "series",
