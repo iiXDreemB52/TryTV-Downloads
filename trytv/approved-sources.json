@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "10a5c38e084be924d3a53282b1d9cecbc23cf27182403de5fdc34afb0f57e5a3",
-  "publishedAt": "2026-10-21T01:11:21.747169+00:00",
+  "revision": "4fd59e7877e998d0d92232a7da556f3e8129ffaea77415700289e9b8f6d6c97d",
+  "publishedAt": "2026-10-21T01:11:31.849379+00:00",
   "sources": [
     {
       "section": "anime",
@@ -596,14 +596,16 @@
       },
       "isPrimary": true,
       "function": "combined",
-      "hiddenServers": [],
+      "hiddenServers": [
+        "streamtape"
+      ],
       "displayUrl": "https://ristoanime.me/",
       "routing": {
         "schema": 1,
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 2
+      "serverVisibilityRevision": 3
     },
     {
       "section": "anime",
