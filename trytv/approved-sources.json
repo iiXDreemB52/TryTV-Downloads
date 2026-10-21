@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "0124724782a6890f8ef1b28eaa06ea779b0d144b2871c95f3724e0e5abd9357c",
-  "publishedAt": "2026-10-21T00:44:02.344791+00:00",
+  "revision": "02f2e547d9b0a87e124401465f2c10463132fc7b15e9ea157f590c485d743f44",
+  "publishedAt": "2026-10-21T00:49:41.783765+00:00",
   "sources": [
     {
       "section": "anime",
@@ -723,14 +723,17 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [
-        "Streamtape"
+        "doodstream",
+        "lulustream",
+        "streamtape"
       ],
       "displayUrl": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/",
       "routing": {
         "schema": 1,
         "totalWorks": 1907,
         "generatedAt": "2026-10-18T20:00:55.460966+00:00"
-      }
+      },
+      "serverVisibilityRevision": 1
     },
     {
       "section": "series",
@@ -763,14 +766,17 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [
-        "Streamtape"
+        "doodstream",
+        "lulustream",
+        "streamtape"
       ],
       "displayUrl": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
       "routing": {
         "schema": 1,
         "totalWorks": 1775,
         "generatedAt": "2026-10-18T19:14:28.202032+00:00"
-      }
+      },
+      "serverVisibilityRevision": 1
     },
     {
       "section": "anime",
@@ -816,14 +822,17 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [
-        "Streamtape"
+        "doodstream",
+        "lulustream",
+        "streamtape"
       ],
       "displayUrl": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
       "routing": {
         "schema": 1,
         "totalWorks": 930,
         "generatedAt": "2026-10-18T05:38:06.539223+00:00"
-      }
+      },
+      "serverVisibilityRevision": 1
     },
     {
       "section": "movies",
@@ -853,7 +862,9 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [
-        "Streamtape"
+        "doodstream",
+        "lulustream",
+        "streamtape"
       ],
       "displayUrl": "https://web5.topcinema.fan/movies/",
       "routing": {
@@ -861,7 +872,7 @@
         "totalWorks": 4010,
         "generatedAt": "2026-10-18T17:23:23.217212+00:00"
       },
-      "serverVisibilityRevision": 2
+      "serverVisibilityRevision": 3
     },
     {
       "section": "series",
