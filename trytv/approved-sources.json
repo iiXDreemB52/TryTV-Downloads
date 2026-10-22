@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "fe8ae731bb3957e8eadd371ebdbcca3a0ce152fab9bc01b2a72984421d3ff2b5",
-  "publishedAt": "2026-10-22T21:34:42.133370+00:00",
+  "revision": "9d69d59eeb5454cff4f3c98e9ecef4b202729bec9c530ace472a6c0a4d452541",
+  "publishedAt": "2026-10-22T21:38:36.813093+00:00",
   "sources": [
     {
       "section": "anime",
@@ -56,13 +56,101 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [],
-      "displayUrl": "https://animezid.org/category.php?cat=cartoon"
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "abyss": {
+          "tier": "backup",
+          "successful": 3,
+          "failed": 0,
+          "tested": 3,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "doodstream": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "playmate": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "rpmshare": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "streamp2p": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "streamwish": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "turboviplay": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "upnshare": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "uqload": {
+          "tier": "primary",
+          "successful": 30,
+          "failed": 0,
+          "tested": 30,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "vidtube": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        }
+      },
+      "displayUrl": "https://animezid.org/category.php?cat=cartoon",
+      "serverVisibilityRevision": 1
     },
     {
       "section": "movies",
       "contentType": "mixed",
       "name": "أنمي زد - أفلام ديزني بالفصحى",
-      "hiddenWorks": [],
+      "hiddenWorks": [
+        "https://animezid.org/watch.php?vid=9c976de35",
+        "https://animezid.org/watch.php?vid=a4402b4c4",
+        "https://animezid.org/watch.php?vid=da3fab4ca"
+      ],
       "enabled": true,
       "adapter": "verified-publisher-work-route-maps",
       "mediaType": "movies",
@@ -83,7 +171,59 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [],
-      "displayUrl": "https://animezid.org/category.php?cat=disney-arabic"
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "doodstream": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 28,
+          "tested": 28,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "filelions": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 2,
+          "tested": 2,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "streamwish": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 8,
+          "tested": 8,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "upnshare": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "uqload": {
+          "tier": "backup",
+          "successful": 15,
+          "failed": 11,
+          "tested": 26,
+          "window": 30,
+          "successRate": 0.5769
+        },
+        "vidtube": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 20,
+          "tested": 20,
+          "window": 30,
+          "successRate": 0.0
+        }
+      },
+      "displayUrl": "https://animezid.org/category.php?cat=disney-arabic",
+      "serverVisibilityRevision": 1
     },
     {
       "section": "movies",
@@ -110,7 +250,27 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [],
-      "displayUrl": "https://animezid.org/category.php?cat=disney-masr"
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "streamwish": {
+          "tier": "backup",
+          "successful": 4,
+          "failed": 0,
+          "tested": 4,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "uqload": {
+          "tier": "primary",
+          "successful": 16,
+          "failed": 0,
+          "tested": 16,
+          "window": 30,
+          "successRate": 1.0
+        }
+      },
+      "displayUrl": "https://animezid.org/category.php?cat=disney-masr",
+      "serverVisibilityRevision": 1
     },
     {
       "section": "series",
@@ -152,7 +312,91 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [],
-      "displayUrl": "https://animezid.org/category.php?cat=disney-series"
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "doodstream": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 4,
+          "tested": 4,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "playmate": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 3,
+          "tested": 3,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "rpmshare": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 4,
+          "tested": 4,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "streamp2p": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 4,
+          "tested": 4,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "streamruby": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 3,
+          "tested": 3,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "streamwish": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "turboviplay": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 3,
+          "tested": 3,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "upnshare": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 5,
+          "tested": 5,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "uqload": {
+          "tier": "primary",
+          "successful": 18,
+          "failed": 0,
+          "tested": 18,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "vidtube": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 5,
+          "tested": 5,
+          "window": 30,
+          "successRate": 0.0
+        }
+      },
+      "displayUrl": "https://animezid.org/category.php?cat=disney-series",
+      "serverVisibilityRevision": 1
     },
     {
       "section": "movies",
@@ -215,7 +459,35 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [],
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "abyss": {
+          "tier": "primary",
+          "successful": 8,
+          "failed": 0,
+          "tested": 8,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "streamwish": {
+          "tier": "backup",
+          "successful": 3,
+          "failed": 0,
+          "tested": 3,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "uqload": {
+          "tier": "primary",
+          "successful": 30,
+          "failed": 0,
+          "tested": 30,
+          "window": 30,
+          "successRate": 1.0
+        }
+      },
       "displayUrl": "https://animezid.org/category.php?cat=dubbed-anime",
+      "serverVisibilityRevision": 1,
       "loadingScreenEnabled": false,
       "dubbed": true
     },
@@ -272,13 +544,43 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [],
-      "displayUrl": "https://animezid.org/category.php?cat=spacetoon"
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "abyss": {
+          "tier": "backup",
+          "successful": 4,
+          "failed": 0,
+          "tested": 4,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "streamwish": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "uqload": {
+          "tier": "primary",
+          "successful": 8,
+          "failed": 0,
+          "tested": 8,
+          "window": 30,
+          "successRate": 1.0
+        }
+      },
+      "displayUrl": "https://animezid.org/category.php?cat=spacetoon",
+      "serverVisibilityRevision": 1
     },
     {
       "section": "movies",
       "contentType": "mixed",
       "name": "K8W4E - أفلام أنمي مدبلجة",
-      "hiddenWorks": [],
+      "hiddenWorks": [
+        "https://k8w4e.sbs/%d9%81%d9%8a%d9%84%d9%85-%d8%aa%d9%8a%d9%83%d9%86-%d8%ab%d8%a3%d8%b1-%d8%a7%d9%84%d8%af%d9%85-2011-%d9%85%d8%af%d8%a8%d9%84%d8%ac/"
+      ],
       "enabled": true,
       "adapter": "verified-publisher-work-route-maps",
       "mediaType": "movies",
@@ -299,7 +601,43 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [],
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "earnvids": {
+          "tier": "backup",
+          "successful": 4,
+          "failed": 2,
+          "tested": 6,
+          "window": 30,
+          "successRate": 0.6667
+        },
+        "mixdrop": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 6,
+          "tested": 6,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "streamix": {
+          "tier": "backup",
+          "successful": 2,
+          "failed": 0,
+          "tested": 2,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "streamruby": {
+          "tier": "backup",
+          "successful": 2,
+          "failed": 0,
+          "tested": 2,
+          "window": 30,
+          "successRate": 1.0
+        }
+      },
       "displayUrl": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
+      "serverVisibilityRevision": 1,
       "dubbed": true
     },
     {
@@ -355,7 +693,179 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [],
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "byse · 1080p (source)": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 4,
+          "tested": 4,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "byse · 480p (source)": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "byse · 720p": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "dood": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "doodstream": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 6,
+          "tested": 6,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "earnvids": {
+          "tier": "backup",
+          "successful": 6,
+          "failed": 18,
+          "tested": 24,
+          "window": 30,
+          "successRate": 0.25
+        },
+        "ok": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 2,
+          "tested": 2,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "streamix": {
+          "tier": "backup",
+          "successful": 3,
+          "failed": 5,
+          "tested": 8,
+          "window": 30,
+          "successRate": 0.375
+        },
+        "streamruby": {
+          "tier": "backup",
+          "successful": 5,
+          "failed": 15,
+          "tested": 20,
+          "window": 30,
+          "successRate": 0.25
+        },
+        "streamruby · 1080p (source)": {
+          "tier": "backup",
+          "successful": 2,
+          "failed": 0,
+          "tested": 2,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "streamruby · 480p (source)": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "streamsb": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "uqload": {
+          "tier": "backup",
+          "successful": 6,
+          "failed": 1,
+          "tested": 7,
+          "window": 30,
+          "successRate": 0.8571
+        },
+        "uqload · 1080p (source)": {
+          "tier": "primary",
+          "successful": 7,
+          "failed": 0,
+          "tested": 7,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "userload": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 2,
+          "tested": 2,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "vidara · 1080p (source)": {
+          "tier": "backup",
+          "successful": 2,
+          "failed": 1,
+          "tested": 3,
+          "window": 30,
+          "successRate": 0.6667
+        },
+        "vidara · 720p": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "vidbem": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "vidmoly · 1080p (source)": {
+          "tier": "backup",
+          "successful": 2,
+          "failed": 0,
+          "tested": 2,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "vudeo": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "متعدد الجودات": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 2,
+          "tested": 2,
+          "window": 30,
+          "successRate": 0.0
+        }
+      },
       "displayUrl": "https://k8w4e.sbs/series-category/anime-series-dubbed/",
+      "serverVisibilityRevision": 1,
       "dubbed": true
     },
     {
@@ -418,7 +928,171 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [],
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "byse · 1080p (source)": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "byse · 480p": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 6,
+          "tested": 6,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "byse · 720p": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 6,
+          "tested": 6,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "byse · 960p (source)": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 5,
+          "tested": 5,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "doodstream": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "earnvids": {
+          "tier": "backup",
+          "successful": 12,
+          "failed": 18,
+          "tested": 30,
+          "window": 30,
+          "successRate": 0.4
+        },
+        "streamix": {
+          "tier": "backup",
+          "successful": 19,
+          "failed": 1,
+          "tested": 20,
+          "window": 30,
+          "successRate": 0.95
+        },
+        "streamruby": {
+          "tier": "backup",
+          "successful": 9,
+          "failed": 15,
+          "tested": 24,
+          "window": 30,
+          "successRate": 0.375
+        },
+        "streamruby · 1080p (source)": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "streamruby · 960p (source)": {
+          "tier": "primary",
+          "successful": 5,
+          "failed": 0,
+          "tested": 5,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "streamsb": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "uqload": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "uqload · 1080p (source)": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "uqload · 960p (source)": {
+          "tier": "primary",
+          "successful": 5,
+          "failed": 0,
+          "tested": 5,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "vidara · 1080p (source)": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "vidara · 480p": {
+          "tier": "primary",
+          "successful": 6,
+          "failed": 0,
+          "tested": 6,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "vidara · 720p": {
+          "tier": "primary",
+          "successful": 6,
+          "failed": 0,
+          "tested": 6,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "vidara · 960p (source)": {
+          "tier": "primary",
+          "successful": 5,
+          "failed": 0,
+          "tested": 5,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "vidmoly · 1080p (source)": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "vidmoly · 960p (source)": {
+          "tier": "primary",
+          "successful": 5,
+          "failed": 0,
+          "tested": 5,
+          "window": 30,
+          "successRate": 1.0
+        }
+      },
       "displayUrl": "https://k8w4e.sbs/series-category/english-series-dubbed/",
+      "serverVisibilityRevision": 1,
       "dubbed": true
     },
     {
@@ -446,7 +1120,19 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [],
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "earnvids": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 1,
+          "tested": 2,
+          "window": 30,
+          "successRate": 0.5
+        }
+      },
       "displayUrl": "https://k8w4e.sbs/series-category/latino-series-dubbed/",
+      "serverVisibilityRevision": 1,
       "dubbed": true
     },
     {
