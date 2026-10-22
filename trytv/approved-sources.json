@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "9d69d59eeb5454cff4f3c98e9ecef4b202729bec9c530ace472a6c0a4d452541",
-  "publishedAt": "2026-10-22T21:38:36.813093+00:00",
+  "revision": "c5c40f63b29a703f02f2d2cc3ab5a6902f6df8ae70d47b4de11337b85819e65c",
+  "publishedAt": "2026-10-22T21:48:03.350916+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1122,6 +1122,14 @@
       "hiddenServers": [],
       "autoHiddenServers": [],
       "serverReliability": {
+        "doodstream": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
         "earnvids": {
           "tier": "backup",
           "successful": 1,
@@ -1132,7 +1140,7 @@
         }
       },
       "displayUrl": "https://k8w4e.sbs/series-category/latino-series-dubbed/",
-      "serverVisibilityRevision": 1,
+      "serverVisibilityRevision": 2,
       "dubbed": true
     },
     {
