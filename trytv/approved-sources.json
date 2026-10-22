@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "83588756375c8dea17f73e187b642d5aa3486db4f77587a4333fdcfa13082153",
-  "publishedAt": "2026-10-22T22:22:02.320541+00:00",
+  "revision": "16761945bcc5bbfe168f0053ba6d6a4ba77ff0b9216d39c647df7cc14cbcc2c6",
+  "publishedAt": "2026-10-22T22:22:18.686730+00:00",
   "sources": [
     {
       "section": "anime",
@@ -257,8 +257,16 @@
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 8,
-          "tested": 8,
+          "failed": 9,
+          "tested": 9,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "filelions": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
           "window": 30,
           "successRate": 0.0
         },
@@ -297,10 +305,10 @@
         "streamwish": {
           "tier": "backup",
           "successful": 4,
-          "failed": 0,
-          "tested": 4,
+          "failed": 1,
+          "tested": 5,
           "window": 30,
-          "successRate": 1.0
+          "successRate": 0.8
         },
         "turboviplay": {
           "tier": "unverified",
@@ -321,22 +329,22 @@
         "uqload": {
           "tier": "backup",
           "successful": 17,
-          "failed": 4,
-          "tested": 21,
+          "failed": 5,
+          "tested": 22,
           "window": 30,
-          "successRate": 0.8095
+          "successRate": 0.7727
         },
         "vidtube": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 7,
-          "tested": 7,
+          "failed": 8,
+          "tested": 8,
           "window": 30,
           "successRate": 0.0
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=disney-masr",
-      "serverVisibilityRevision": 10
+      "serverVisibilityRevision": 11
     },
     {
       "section": "series",
