@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "6e8194362564f280023c7440af8a79286edc0b8edf0a3c090c81c4f0e045be0a",
-  "publishedAt": "2026-10-22T21:51:58.023037+00:00",
+  "revision": "53d9d767949931080ee6a829439a65c517fae87e18d14a1ce8e434df81e2f997",
+  "publishedAt": "2026-10-22T21:53:50.920827+00:00",
   "sources": [
     {
       "section": "anime",
@@ -579,6 +579,7 @@
       "contentType": "mixed",
       "name": "K8W4E - أفلام أنمي مدبلجة",
       "hiddenWorks": [
+        "https://k8w4e.sbs/%d9%81%d9%8a%d9%84%d9%85-%d8%aa%d8%a7%d8%a6%d9%87%d8%a7%d9%86-%d9%81%d9%8a-%d9%81%d8%b6%d8%a7%d8%a1-%d8%a7%d9%84%d8%ad%d8%a8-2025-%d9%85%d8%af%d8%a8%d9%84%d8%ac/",
         "https://k8w4e.sbs/%d9%81%d9%8a%d9%84%d9%85-%d8%aa%d9%8a%d9%83%d9%86-%d8%ab%d8%a3%d8%b1-%d8%a7%d9%84%d8%af%d9%85-2011-%d9%85%d8%af%d8%a8%d9%84%d8%ac/",
         "https://k8w4e.sbs/%d9%81%d9%8a%d9%84%d9%85-%d9%84%d9%88%d8%a8%d9%86-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a8%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d8%b9%d8%b5%d8%a7%d8%a8%d8%a9-%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d9%82/"
       ],
