@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "6e7d1355723f065f2d55ac769611621f83694ee46dc196af68f58edea387dec9",
-  "publishedAt": "2026-10-22T22:19:03.453973+00:00",
+  "revision": "83588756375c8dea17f73e187b642d5aa3486db4f77587a4333fdcfa13082153",
+  "publishedAt": "2026-10-22T22:22:02.320541+00:00",
   "sources": [
     {
       "section": "anime",
@@ -229,7 +229,9 @@
       "section": "movies",
       "contentType": "mixed",
       "name": "أنمي زد - أفلام ديزني بالمصري",
-      "hiddenWorks": [],
+      "hiddenWorks": [
+        "https://animezid.org/watch.php?vid=4735a9df4"
+      ],
       "enabled": true,
       "adapter": "verified-publisher-work-route-maps",
       "mediaType": "movies",
