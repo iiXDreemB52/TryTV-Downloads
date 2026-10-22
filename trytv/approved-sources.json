@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "2c41acd30688eff03e9d0729a7ff4a567d3bbc7c52e5b3a1ad963c910d04ad77",
-  "publishedAt": "2026-10-22T22:09:28.823038+00:00",
+  "revision": "5ded2505e3947ecd58b8a5a1e6a5eb7a4ab1bc7c6d5f7e8d3297bd3c7497ed0e",
+  "publishedAt": "2026-10-22T22:11:17.026915+00:00",
   "sources": [
     {
       "section": "anime",
@@ -255,8 +255,8 @@
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 3,
-          "tested": 3,
+          "failed": 4,
+          "tested": 4,
           "window": 30,
           "successRate": 0.0
         },
@@ -327,14 +327,14 @@
         "vidtube": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 2,
-          "tested": 2,
+          "failed": 3,
+          "tested": 3,
           "window": 30,
           "successRate": 0.0
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=disney-masr",
-      "serverVisibilityRevision": 5
+      "serverVisibilityRevision": 6
     },
     {
       "section": "series",
