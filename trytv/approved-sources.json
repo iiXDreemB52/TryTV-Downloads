@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "53d9d767949931080ee6a829439a65c517fae87e18d14a1ce8e434df81e2f997",
-  "publishedAt": "2026-10-22T21:53:50.920827+00:00",
+  "revision": "bd4bbbe2d182ae5458b173d906f8a1c2ea10478a5c1bcaa91ce8c0ad627960e9",
+  "publishedAt": "2026-10-22T21:54:12.535249+00:00",
   "sources": [
     {
       "section": "anime",
@@ -608,8 +608,8 @@
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
@@ -647,7 +647,7 @@
         }
       },
       "displayUrl": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
-      "serverVisibilityRevision": 2,
+      "serverVisibilityRevision": 3,
       "dubbed": true
     },
     {
