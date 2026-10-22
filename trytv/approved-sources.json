@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "3d109cd8a2505ccbc17229b28f7dd714f50ef7dc440743adedc17c2c885538fd",
-  "publishedAt": "2026-10-21T17:17:50.404724+00:00",
+  "revision": "fe8ae731bb3957e8eadd371ebdbcca3a0ce152fab9bc01b2a72984421d3ff2b5",
+  "publishedAt": "2026-10-22T21:34:42.133370+00:00",
   "sources": [
     {
       "section": "anime",
@@ -930,13 +930,48 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [],
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "ok": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "streamwish": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "uqload": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "videotube": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        }
+      },
       "displayUrl": "https://web5.topcinema.fan/movies/",
       "routing": {
         "schema": 1,
         "totalWorks": 4010,
         "generatedAt": "2026-10-18T17:23:23.217212+00:00"
       },
-      "serverVisibilityRevision": 9
+      "serverVisibilityRevision": 10
     },
     {
       "section": "series",
