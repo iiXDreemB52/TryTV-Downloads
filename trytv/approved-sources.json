@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "1d421cbb95783612361f83ed9cf183ea37585bdf892e71dd1e0f168756631eaa",
-  "publishedAt": "2026-10-22T21:57:25.144260+00:00",
+  "revision": "e63378bb93acacd1733cdadb13f03ffff2572606967688560fcbc3ea9390fd29",
+  "publishedAt": "2026-10-22T22:02:54.607556+00:00",
   "sources": [
     {
       "section": "anime",
@@ -252,6 +252,46 @@
       "hiddenServers": [],
       "autoHiddenServers": [],
       "serverReliability": {
+        "doodstream": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "playmate": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "rpmshare": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "streamp2p": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "streamruby": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
         "streamwish": {
           "tier": "backup",
           "successful": 4,
@@ -260,17 +300,41 @@
           "window": 30,
           "successRate": 1.0
         },
+        "turboviplay": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "upnshare": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
         "uqload": {
           "tier": "primary",
-          "successful": 16,
+          "successful": 17,
           "failed": 0,
-          "tested": 16,
+          "tested": 17,
           "window": 30,
           "successRate": 1.0
+        },
+        "vidtube": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=disney-masr",
-      "serverVisibilityRevision": 1
+      "serverVisibilityRevision": 2
     },
     {
       "section": "series",
