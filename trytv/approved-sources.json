@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "6b690bfd3f57b7430119c9bb3e5f9d998d2353d43151347f72c5d0d5b78809f4",
-  "publishedAt": "2026-10-22T23:05:58.909894+00:00",
+  "revision": "f2ba8bca4338a64337f6b806c7d98f2eac39d103bc92139be85f0a3baf93ee9c",
+  "publishedAt": "2026-10-22T23:13:08.694079+00:00",
   "sources": [
     {
       "section": "anime",
@@ -448,30 +448,30 @@
         "upnshare": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 6,
-          "tested": 6,
+          "failed": 7,
+          "tested": 7,
           "window": 30,
           "successRate": 0.0
         },
         "uqload": {
           "tier": "backup",
           "successful": 18,
-          "failed": 1,
-          "tested": 19,
+          "failed": 2,
+          "tested": 20,
           "window": 30,
-          "successRate": 0.9474
+          "successRate": 0.9
         },
         "vidtube": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 6,
-          "tested": 6,
+          "failed": 7,
+          "tested": 7,
           "window": 30,
           "successRate": 0.0
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=disney-series",
-      "serverVisibilityRevision": 2
+      "serverVisibilityRevision": 3
     },
     {
       "section": "movies",
