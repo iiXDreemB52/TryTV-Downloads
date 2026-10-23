@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "5fc39eb0ab36dbf86007a65177914106fc0b679abcf084483ddb3ff32518a949",
-  "publishedAt": "2026-10-23T08:36:06.962882+00:00",
+  "revision": "2120d2280b1865a1f1c63eea02d09366a40bf2540b977a2155ed5c291af9b44e",
+  "publishedAt": "2026-10-23T09:17:28.471458+00:00",
   "sources": [
     {
       "section": "anime",
@@ -845,16 +845,16 @@
         "goved": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 3,
-          "tested": 3,
+          "failed": 4,
+          "tested": 4,
           "window": 30,
           "successRate": 0.0
         },
         "linkbox": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
@@ -917,18 +917,18 @@
         "uptostream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 3,
-          "tested": 3,
+          "failed": 4,
+          "tested": 4,
           "window": 30,
           "successRate": 0.0
         },
         "uqload": {
           "tier": "backup",
           "successful": 6,
-          "failed": 3,
-          "tested": 9,
+          "failed": 4,
+          "tested": 10,
           "window": 30,
-          "successRate": 0.6667
+          "successRate": 0.6
         },
         "uqload · 1080p (source)": {
           "tier": "primary",
@@ -989,8 +989,8 @@
         "vidshare": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 3,
-          "tested": 3,
+          "failed": 4,
+          "tested": 4,
           "window": 30,
           "successRate": 0.0
         },
@@ -1020,7 +1020,7 @@
         }
       },
       "displayUrl": "https://k8w4e.sbs/series-category/anime-series-dubbed/",
-      "serverVisibilityRevision": 29,
+      "serverVisibilityRevision": 30,
       "dubbed": true
     },
     {
