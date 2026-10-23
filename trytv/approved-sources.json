@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "586db6e01c36882162ef2f18ea4aa93d9f04cd1e7ac3971e4817b2540e72d206",
-  "publishedAt": "2026-10-23T20:59:22.067388+00:00",
+  "revision": "534ac42b98a5da9cc62ed7f16f1db6a4b5375ee0b2c734ed7fbf58d5f282674b",
+  "publishedAt": "2026-10-23T20:59:40.375235+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1998,12 +1998,12 @@
           "successRate": 0.0
         },
         "streamwish": {
-          "tier": "backup",
-          "successful": 1,
-          "failed": 0,
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 1.0
+          "successRate": 0.0
         },
         "uqload": {
           "tier": "backup",
@@ -2028,7 +2028,7 @@
         "totalWorks": 4010,
         "generatedAt": "2026-10-18T17:23:23.217212+00:00"
       },
-      "serverVisibilityRevision": 10
+      "serverVisibilityRevision": 11
     },
     {
       "section": "series",
