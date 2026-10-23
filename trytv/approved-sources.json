@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "ff187f6c427c1f209ca656a4a818d26aabda0fed41e0306f00530fe9f2668479",
-  "publishedAt": "2026-10-23T21:57:58.263609+00:00",
+  "revision": "9c09feb13fc9f6c0ec3fde83b82f2ce82d9b760ad1ae346d897864d124f3a040",
+  "publishedAt": "2026-10-23T22:03:39.672674+00:00",
   "sources": [
     {
       "section": "anime",
@@ -710,8 +710,8 @@
         "filelions": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
@@ -726,16 +726,16 @@
         "rpmshare": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
         "streamp2p": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
@@ -749,27 +749,27 @@
         },
         "streamwish": {
           "tier": "backup",
-          "successful": 1,
+          "successful": 2,
           "failed": 5,
-          "tested": 6,
+          "tested": 7,
           "window": 30,
-          "successRate": 0.1667
+          "successRate": 0.2857
         },
         "upnshare": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 18,
-          "tested": 18,
+          "failed": 19,
+          "tested": 19,
           "window": 30,
           "successRate": 0.0
         },
         "uqload": {
           "tier": "backup",
-          "successful": 27,
-          "failed": 3,
+          "successful": 28,
+          "failed": 2,
           "tested": 30,
           "window": 30,
-          "successRate": 0.9
+          "successRate": 0.9333
         },
         "vidtube": {
           "tier": "unverified",
@@ -781,7 +781,7 @@
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=spacetoon",
-      "serverVisibilityRevision": 44
+      "serverVisibilityRevision": 45
     },
     {
       "section": "movies",
