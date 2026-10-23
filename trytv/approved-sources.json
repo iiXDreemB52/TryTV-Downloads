@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "b5ce1c93b1d41f849f88a491b6fe0b329e8a997874a5d9e8c10a23f316cb4665",
-  "publishedAt": "2026-10-23T15:41:37.110Z",
+  "revision": "82a02b2d31938710c16764fb30070092934a723716562b71df47c01f50abdc78",
+  "publishedAt": "2026-10-23T15:47:14.049Z",
   "sources": [
     {
       "section": "anime",
@@ -69,10 +69,10 @@
         "doodstream": {
           "tier": "backup",
           "successful": 1,
-          "failed": 7,
-          "tested": 8,
+          "failed": 8,
+          "tested": 9,
           "window": 30,
-          "successRate": 0.125
+          "successRate": 0.1111
         },
         "playmate": {
           "tier": "backup",
@@ -93,10 +93,10 @@
         "streamp2p": {
           "tier": "backup",
           "successful": 1,
-          "failed": 7,
-          "tested": 8,
+          "failed": 8,
+          "tested": 9,
           "window": 30,
-          "successRate": 0.125
+          "successRate": 0.1111
         },
         "streamwish": {
           "tier": "backup",
@@ -117,18 +117,18 @@
         "upnshare": {
           "tier": "backup",
           "successful": 1,
-          "failed": 7,
-          "tested": 8,
+          "failed": 8,
+          "tested": 9,
           "window": 30,
-          "successRate": 0.125
+          "successRate": 0.1111
         },
         "uqload": {
-          "tier": "primary",
-          "successful": 30,
-          "failed": 0,
+          "tier": "backup",
+          "successful": 29,
+          "failed": 1,
           "tested": 30,
           "window": 30,
-          "successRate": 1
+          "successRate": 0.9667
         },
         "vidtube": {
           "tier": "backup",
@@ -140,7 +140,7 @@
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=cartoon",
-      "serverVisibilityRevision": 8
+      "serverVisibilityRevision": 9
     },
     {
       "section": "movies",
