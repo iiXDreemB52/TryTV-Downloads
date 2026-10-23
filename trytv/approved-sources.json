@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "c2f6d2426f35700918ee07b10ab76b4725b5a0f74341ea5aa44878a90b771798",
-  "publishedAt": "2026-10-23T03:04:28.578222+00:00",
+  "revision": "faeafe0517cba9e7f31395cbfe879095741c7c1abb31a50324a272089f92defe",
+  "publishedAt": "2026-10-23T03:04:45.196436+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1059,6 +1059,14 @@
           "window": 30,
           "successRate": 0.0
         },
+        "dood": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
@@ -1074,6 +1082,22 @@
           "tested": 30,
           "window": 30,
           "successRate": 0.4333
+        },
+        "goved": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "linkbox": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
         },
         "mixdrop": {
           "tier": "unverified",
@@ -1116,6 +1140,14 @@
           "successRate": 1.0
         },
         "streamsb": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "uptostream": {
           "tier": "unverified",
           "successful": 0,
           "failed": 1,
@@ -1179,6 +1211,14 @@
           "window": 30,
           "successRate": 1.0
         },
+        "vidbom": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
         "vidmoly · 1080p (source)": {
           "tier": "backup",
           "successful": 1,
@@ -1195,6 +1235,14 @@
           "window": 30,
           "successRate": 1.0
         },
+        "vidshare": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
         "voe": {
           "tier": "unverified",
           "successful": 0,
@@ -1205,7 +1253,7 @@
         }
       },
       "displayUrl": "https://k8w4e.sbs/series-category/english-series-dubbed/",
-      "serverVisibilityRevision": 20,
+      "serverVisibilityRevision": 21,
       "dubbed": true
     },
     {
