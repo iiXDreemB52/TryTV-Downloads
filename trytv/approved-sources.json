@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "3842a78f87b2f62ef0813c6dbfe15341fda6d782d4bb139d2b4fe8550b11979b",
-  "publishedAt": "2026-10-23T14:12:02.062793+00:00",
+  "revision": "96b3c4f02150a968929e350b3eb3ef1d4a5a69428b233a9e8a150202e9089f4c",
+  "publishedAt": "2026-10-23T14:19:16.111676+00:00",
   "sources": [
     {
       "section": "anime",
@@ -547,8 +547,8 @@
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 21,
-          "tested": 21,
+          "failed": 22,
+          "tested": 22,
           "window": 30,
           "successRate": 0.0
         },
@@ -610,23 +610,23 @@
         },
         "uqload": {
           "tier": "backup",
-          "successful": 29,
-          "failed": 1,
+          "successful": 28,
+          "failed": 2,
           "tested": 30,
           "window": 30,
-          "successRate": 0.9667
+          "successRate": 0.9333
         },
         "vidtube": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 21,
-          "tested": 21,
+          "failed": 22,
+          "tested": 22,
           "window": 30,
           "successRate": 0.0
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=dubbed-anime",
-      "serverVisibilityRevision": 22,
+      "serverVisibilityRevision": 23,
       "loadingScreenEnabled": false,
       "dubbed": true
     },
