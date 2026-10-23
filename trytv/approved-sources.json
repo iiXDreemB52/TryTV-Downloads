@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "6d3bc4903eab197a71a3161520059709879610fe7d2ddabaa400aa5db627f8f6",
-  "publishedAt": "2026-10-23T04:34:03.123972+00:00",
+  "revision": "5ddc21965b0255cc84788bc1859e856e92ba812b1540e9e7d22cd55b21934b5a",
+  "publishedAt": "2026-10-23T04:37:54.014014+00:00",
   "sources": [
     {
       "section": "anime",
@@ -784,8 +784,8 @@
         "byse": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 6,
-          "tested": 6,
+          "failed": 7,
+          "tested": 7,
           "window": 30,
           "successRate": 0.0
         },
@@ -824,24 +824,24 @@
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 15,
-          "tested": 15,
+          "failed": 16,
+          "tested": 16,
           "window": 30,
           "successRate": 0.0
         },
         "earnvids": {
           "tier": "backup",
           "successful": 8,
-          "failed": 19,
-          "tested": 27,
+          "failed": 20,
+          "tested": 28,
           "window": 30,
-          "successRate": 0.2963
+          "successRate": 0.2857
         },
         "mixdrop": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 5,
-          "tested": 5,
+          "failed": 6,
+          "tested": 6,
           "window": 30,
           "successRate": 0.0
         },
@@ -855,11 +855,11 @@
         },
         "streamix": {
           "tier": "backup",
-          "successful": 9,
+          "successful": 10,
           "failed": 4,
-          "tested": 13,
+          "tested": 14,
           "window": 30,
-          "successRate": 0.6923
+          "successRate": 0.7143
         },
         "streamruby": {
           "tier": "backup",
@@ -952,8 +952,8 @@
         "voe": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 7,
-          "tested": 7,
+          "failed": 8,
+          "tested": 8,
           "window": 30,
           "successRate": 0.0
         },
@@ -975,7 +975,7 @@
         }
       },
       "displayUrl": "https://k8w4e.sbs/series-category/anime-series-dubbed/",
-      "serverVisibilityRevision": 11,
+      "serverVisibilityRevision": 12,
       "dubbed": true
     },
     {
