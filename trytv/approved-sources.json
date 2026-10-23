@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "0a05e58be8d89134aed39c03570fcd9fdc61e544295261dd0c9a718e87878e10",
-  "publishedAt": "2026-10-23T02:02:54.175345+00:00",
+  "revision": "02b76dfd9897f83a16c6701167a7669468590d02e1c0a85fcf61ee7a074a115e",
+  "publishedAt": "2026-10-23T02:06:57.621651+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1061,8 +1061,8 @@
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 13,
-          "tested": 13,
+          "failed": 14,
+          "tested": 14,
           "window": 30,
           "successRate": 0.0
         },
@@ -1204,7 +1204,7 @@
         }
       },
       "displayUrl": "https://k8w4e.sbs/series-category/english-series-dubbed/",
-      "serverVisibilityRevision": 14,
+      "serverVisibilityRevision": 15,
       "dubbed": true
     },
     {
