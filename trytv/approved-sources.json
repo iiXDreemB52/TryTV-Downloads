@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "9ef559ba9eb5e086dedf600cd6833e23574a4c39daee5866cdf420d8d034cf90",
-  "publishedAt": "2026-10-23T16:11:08.481Z",
+  "revision": "1dfd96f303c65d24307854d8b426fdedc94d7d948842e03cc806cf49cdacbc8a",
+  "publishedAt": "2026-10-23T16:18:20.470Z",
   "sources": [
     {
       "section": "anime",
@@ -117,30 +117,30 @@
         "upnshare": {
           "tier": "backup",
           "successful": 1,
-          "failed": 12,
-          "tested": 13,
+          "failed": 13,
+          "tested": 14,
           "window": 30,
-          "successRate": 0.0769
+          "successRate": 0.0714
         },
         "uqload": {
           "tier": "backup",
-          "successful": 27,
-          "failed": 3,
+          "successful": 26,
+          "failed": 4,
           "tested": 30,
           "window": 30,
-          "successRate": 0.9
+          "successRate": 0.8667
         },
         "vidtube": {
           "tier": "backup",
           "successful": 1,
-          "failed": 9,
-          "tested": 10,
+          "failed": 10,
+          "tested": 11,
           "window": 30,
-          "successRate": 0.1
+          "successRate": 0.0909
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=cartoon",
-      "serverVisibilityRevision": 13
+      "serverVisibilityRevision": 14
     },
     {
       "section": "movies",
