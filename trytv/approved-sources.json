@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "1e8f421340e36e502cf2cf2f96c334006a27d53d8e8f742a644b84ae13c40313",
-  "publishedAt": "2026-10-23T04:07:15.982396+00:00",
+  "revision": "f7ff76a3ec08bc0052784a24e93cce1d1c6505376ea06e0ad90297d9a3ef61bb",
+  "publishedAt": "2026-10-23T04:15:30.186605+00:00",
   "sources": [
     {
       "section": "anime",
@@ -784,8 +784,8 @@
         "byse": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 2,
-          "tested": 2,
+          "failed": 3,
+          "tested": 3,
           "window": 30,
           "successRate": 0.0
         },
@@ -824,8 +824,8 @@
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 9,
-          "tested": 9,
+          "failed": 10,
+          "tested": 10,
           "window": 30,
           "successRate": 0.0
         },
@@ -855,11 +855,11 @@
         },
         "streamix": {
           "tier": "backup",
-          "successful": 5,
+          "successful": 6,
           "failed": 5,
-          "tested": 10,
+          "tested": 11,
           "window": 30,
-          "successRate": 0.5
+          "successRate": 0.5455
         },
         "streamruby": {
           "tier": "backup",
@@ -952,8 +952,8 @@
         "voe": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 3,
-          "tested": 3,
+          "failed": 4,
+          "tested": 4,
           "window": 30,
           "successRate": 0.0
         },
@@ -975,7 +975,7 @@
         }
       },
       "displayUrl": "https://k8w4e.sbs/series-category/anime-series-dubbed/",
-      "serverVisibilityRevision": 5,
+      "serverVisibilityRevision": 6,
       "dubbed": true
     },
     {
