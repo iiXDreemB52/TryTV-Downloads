@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "37391e2b85e24b653d989a2056dc24a92b606c0298dc5c3d5df49315bd2c16cd",
-  "publishedAt": "2026-10-23T15:05:59.444668+00:00",
+  "revision": "97a49f20e7d2ab2a0bfc206579089ccc7020511221ccbea1b5dbddd1170477ba",
+  "publishedAt": "2026-10-23T15:16:42.894250+00:00",
   "sources": [
     {
       "section": "anime",
@@ -69,10 +69,10 @@
         "doodstream": {
           "tier": "backup",
           "successful": 1,
-          "failed": 4,
-          "tested": 5,
+          "failed": 5,
+          "tested": 6,
           "window": 30,
-          "successRate": 0.2
+          "successRate": 0.1667
         },
         "playmate": {
           "tier": "backup",
@@ -85,18 +85,18 @@
         "rpmshare": {
           "tier": "backup",
           "successful": 1,
-          "failed": 4,
-          "tested": 5,
+          "failed": 5,
+          "tested": 6,
           "window": 30,
-          "successRate": 0.2
+          "successRate": 0.1667
         },
         "streamp2p": {
           "tier": "backup",
           "successful": 1,
-          "failed": 4,
-          "tested": 5,
+          "failed": 5,
+          "tested": 6,
           "window": 30,
-          "successRate": 0.2
+          "successRate": 0.1667
         },
         "streamwish": {
           "tier": "backup",
@@ -117,10 +117,10 @@
         "upnshare": {
           "tier": "backup",
           "successful": 1,
-          "failed": 4,
-          "tested": 5,
+          "failed": 5,
+          "tested": 6,
           "window": 30,
-          "successRate": 0.2
+          "successRate": 0.1667
         },
         "uqload": {
           "tier": "primary",
@@ -133,14 +133,14 @@
         "vidtube": {
           "tier": "backup",
           "successful": 1,
-          "failed": 2,
-          "tested": 3,
+          "failed": 3,
+          "tested": 4,
           "window": 30,
-          "successRate": 0.3333
+          "successRate": 0.25
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=cartoon",
-      "serverVisibilityRevision": 5
+      "serverVisibilityRevision": 6
     },
     {
       "section": "movies",
