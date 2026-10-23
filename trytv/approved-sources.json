@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "b15ce699ef825bee48ba52af4053a778a3d0db33c2b228b995ba56e85cff617f",
-  "publishedAt": "2026-10-23T07:41:57.076601+00:00",
+  "revision": "624bba14930b2b5b76f8a9bf537dcb9dc62305821da9f118a91d72b26d500c91",
+  "publishedAt": "2026-10-23T08:35:50.015634+00:00",
   "sources": [
     {
       "section": "anime",
@@ -761,6 +761,7 @@
       "hiddenWorks": [
         "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%ad%d8%b1%d8%a8-%d8%a7%d9%84%d9%86%d8%ac%d9%88%d9%85-%d8%b1%d8%a4%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83/",
         "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%ad%d8%b1%d8%a8-%d8%a7%d9%84%d9%86%d8%ac%d9%88%d9%85-%d8%b1%d8%a4%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d9%85%d8%af%d8%a8%d9%84%d8%ac/",
+        "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%b3%d9%84%d8%a7%d9%8a%d9%85-%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
         "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d9%84%d9%8a%d9%86%d9%83-%d9%83%d9%84%d9%8a%d9%83-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/"
       ],
       "enabled": true,
