@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "30f2a650a2229ad3de9e162be952115027bde73e03c3557052487575feed506f",
-  "publishedAt": "2026-10-23T17:19:30.416Z",
+  "revision": "643d44241721a2d81859558510e36a67b5ec15df882f7f9fb58e38721961f517",
+  "publishedAt": "2026-10-23T18:21:31.304513+00:00",
   "sources": [
     {
       "section": "anime",
@@ -64,7 +64,7 @@
           "failed": 0,
           "tested": 3,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "doodstream": {
           "tier": "backup",
@@ -80,7 +80,7 @@
           "failed": 0,
           "tested": 1,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "rpmshare": {
           "tier": "backup",
@@ -104,7 +104,7 @@
           "failed": 0,
           "tested": 1,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "turboviplay": {
           "tier": "backup",
@@ -112,7 +112,7 @@
           "failed": 0,
           "tested": 1,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "upnshare": {
           "tier": "backup",
@@ -179,7 +179,7 @@
           "failed": 28,
           "tested": 28,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "filelions": {
           "tier": "unverified",
@@ -187,7 +187,7 @@
           "failed": 2,
           "tested": 2,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "streamwish": {
           "tier": "unverified",
@@ -195,7 +195,7 @@
           "failed": 8,
           "tested": 8,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "upnshare": {
           "tier": "unverified",
@@ -203,7 +203,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "uqload": {
           "tier": "backup",
@@ -219,7 +219,7 @@
           "failed": 20,
           "tested": 20,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=disney-arabic",
@@ -261,7 +261,7 @@
           "failed": 10,
           "tested": 10,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "filelions": {
           "tier": "unverified",
@@ -269,7 +269,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "playmate": {
           "tier": "unverified",
@@ -277,7 +277,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "rpmshare": {
           "tier": "unverified",
@@ -285,7 +285,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "streamp2p": {
           "tier": "unverified",
@@ -293,7 +293,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "streamruby": {
           "tier": "unverified",
@@ -301,7 +301,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "streamwish": {
           "tier": "backup",
@@ -317,7 +317,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "upnshare": {
           "tier": "unverified",
@@ -325,7 +325,7 @@
           "failed": 3,
           "tested": 3,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "uqload": {
           "tier": "backup",
@@ -341,7 +341,7 @@
           "failed": 8,
           "tested": 8,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=disney-masr",
@@ -395,7 +395,7 @@
           "failed": 6,
           "tested": 6,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "playmate": {
           "tier": "unverified",
@@ -403,7 +403,7 @@
           "failed": 3,
           "tested": 3,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "rpmshare": {
           "tier": "unverified",
@@ -411,7 +411,7 @@
           "failed": 4,
           "tested": 4,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "streamp2p": {
           "tier": "unverified",
@@ -419,7 +419,7 @@
           "failed": 4,
           "tested": 4,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "streamruby": {
           "tier": "unverified",
@@ -427,7 +427,7 @@
           "failed": 3,
           "tested": 3,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "streamwish": {
           "tier": "backup",
@@ -435,7 +435,7 @@
           "failed": 0,
           "tested": 1,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "turboviplay": {
           "tier": "unverified",
@@ -443,7 +443,7 @@
           "failed": 3,
           "tested": 3,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "upnshare": {
           "tier": "unverified",
@@ -451,7 +451,7 @@
           "failed": 8,
           "tested": 8,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "uqload": {
           "tier": "backup",
@@ -467,7 +467,7 @@
           "failed": 9,
           "tested": 9,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=disney-series",
@@ -542,7 +542,7 @@
           "failed": 0,
           "tested": 8,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "doodstream": {
           "tier": "unverified",
@@ -550,7 +550,7 @@
           "failed": 23,
           "tested": 23,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "easyvidplay": {
           "tier": "unverified",
@@ -558,7 +558,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "rpmshare": {
           "tier": "unverified",
@@ -566,7 +566,7 @@
           "failed": 19,
           "tested": 19,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "streamp2p": {
           "tier": "unverified",
@@ -574,7 +574,7 @@
           "failed": 19,
           "tested": 19,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "streamruby": {
           "tier": "unverified",
@@ -582,7 +582,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "streamwish": {
           "tier": "backup",
@@ -590,7 +590,7 @@
           "failed": 0,
           "tested": 3,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "turboviplay": {
           "tier": "unverified",
@@ -598,7 +598,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "upnshare": {
           "tier": "unverified",
@@ -606,7 +606,7 @@
           "failed": 19,
           "tested": 19,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "uqload": {
           "tier": "backup",
@@ -622,7 +622,7 @@
           "failed": 23,
           "tested": 23,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=dubbed-anime",
@@ -691,7 +691,15 @@
           "failed": 0,
           "tested": 4,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
+        },
+        "doodstream": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
         },
         "streamwish": {
           "tier": "backup",
@@ -699,19 +707,27 @@
           "failed": 0,
           "tested": 1,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
+        },
+        "upnshare": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
         },
         "uqload": {
           "tier": "primary",
-          "successful": 8,
+          "successful": 9,
           "failed": 0,
-          "tested": 8,
+          "tested": 9,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=spacetoon",
-      "serverVisibilityRevision": 1
+      "serverVisibilityRevision": 2
     },
     {
       "section": "movies",
@@ -751,7 +767,7 @@
           "failed": 3,
           "tested": 3,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "earnvids": {
           "tier": "backup",
@@ -767,7 +783,7 @@
           "failed": 6,
           "tested": 6,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "streamix": {
           "tier": "backup",
@@ -775,7 +791,7 @@
           "failed": 0,
           "tested": 2,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "streamruby": {
           "tier": "backup",
@@ -783,7 +799,7 @@
           "failed": 0,
           "tested": 2,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         }
       },
       "displayUrl": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
@@ -861,7 +877,7 @@
           "failed": 7,
           "tested": 7,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "byse · 1080p (source)": {
           "tier": "unverified",
@@ -869,7 +885,7 @@
           "failed": 4,
           "tested": 4,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "byse · 480p (source)": {
           "tier": "unverified",
@@ -877,7 +893,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "byse · 720p": {
           "tier": "unverified",
@@ -885,7 +901,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "dood": {
           "tier": "unverified",
@@ -893,7 +909,7 @@
           "failed": 2,
           "tested": 2,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "doodstream": {
           "tier": "unverified",
@@ -901,7 +917,7 @@
           "failed": 30,
           "tested": 30,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "earnvids": {
           "tier": "backup",
@@ -917,7 +933,7 @@
           "failed": 4,
           "tested": 4,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "linkbox": {
           "tier": "unverified",
@@ -925,7 +941,7 @@
           "failed": 2,
           "tested": 2,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "mixdrop": {
           "tier": "unverified",
@@ -933,7 +949,7 @@
           "failed": 10,
           "tested": 10,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "ok": {
           "tier": "unverified",
@@ -941,7 +957,7 @@
           "failed": 2,
           "tested": 2,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "streamix": {
           "tier": "backup",
@@ -965,7 +981,7 @@
           "failed": 0,
           "tested": 2,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "streamruby · 480p (source)": {
           "tier": "backup",
@@ -973,7 +989,7 @@
           "failed": 0,
           "tested": 1,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "streamsb": {
           "tier": "unverified",
@@ -981,7 +997,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "uptostream": {
           "tier": "unverified",
@@ -989,7 +1005,7 @@
           "failed": 5,
           "tested": 5,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "uqload": {
           "tier": "backup",
@@ -1005,7 +1021,7 @@
           "failed": 0,
           "tested": 7,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "userload": {
           "tier": "unverified",
@@ -1013,7 +1029,7 @@
           "failed": 2,
           "tested": 2,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "vidara · 1080p (source)": {
           "tier": "backup",
@@ -1029,7 +1045,7 @@
           "failed": 0,
           "tested": 1,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "vidbem": {
           "tier": "unverified",
@@ -1037,7 +1053,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "vidbom": {
           "tier": "unverified",
@@ -1045,7 +1061,7 @@
           "failed": 3,
           "tested": 3,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "vidmoly · 1080p (source)": {
           "tier": "backup",
@@ -1053,7 +1069,7 @@
           "failed": 0,
           "tested": 2,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "vidshare": {
           "tier": "unverified",
@@ -1061,7 +1077,7 @@
           "failed": 4,
           "tested": 4,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "voe": {
           "tier": "unverified",
@@ -1069,7 +1085,7 @@
           "failed": 8,
           "tested": 8,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "vudeo": {
           "tier": "unverified",
@@ -1077,7 +1093,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "youdbox": {
           "tier": "unverified",
@@ -1085,7 +1101,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "متعدد الجودات": {
           "tier": "unverified",
@@ -1093,7 +1109,7 @@
           "failed": 2,
           "tested": 2,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         }
       },
       "displayUrl": "https://k8w4e.sbs/series-category/anime-series-dubbed/",
@@ -1171,7 +1187,7 @@
           "failed": 3,
           "tested": 3,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "byse · 1080p (source)": {
           "tier": "unverified",
@@ -1179,7 +1195,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "byse · 480p": {
           "tier": "unverified",
@@ -1187,7 +1203,7 @@
           "failed": 6,
           "tested": 6,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "byse · 720p": {
           "tier": "unverified",
@@ -1195,7 +1211,7 @@
           "failed": 6,
           "tested": 6,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "byse · 960p (source)": {
           "tier": "unverified",
@@ -1203,7 +1219,7 @@
           "failed": 5,
           "tested": 5,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "dood": {
           "tier": "unverified",
@@ -1211,7 +1227,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "doodstream": {
           "tier": "unverified",
@@ -1219,7 +1235,7 @@
           "failed": 19,
           "tested": 19,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "earnvids": {
           "tier": "backup",
@@ -1235,7 +1251,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "linkbox": {
           "tier": "unverified",
@@ -1243,7 +1259,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "mixdrop": {
           "tier": "unverified",
@@ -1251,7 +1267,7 @@
           "failed": 2,
           "tested": 2,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "streamix": {
           "tier": "backup",
@@ -1275,7 +1291,7 @@
           "failed": 0,
           "tested": 1,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "streamruby · 960p (source)": {
           "tier": "primary",
@@ -1283,7 +1299,7 @@
           "failed": 0,
           "tested": 5,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "streamsb": {
           "tier": "unverified",
@@ -1291,7 +1307,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "uptostream": {
           "tier": "unverified",
@@ -1299,7 +1315,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "uqload": {
           "tier": "unverified",
@@ -1307,7 +1323,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "uqload · 1080p (source)": {
           "tier": "backup",
@@ -1315,7 +1331,7 @@
           "failed": 0,
           "tested": 1,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "uqload · 960p (source)": {
           "tier": "primary",
@@ -1323,7 +1339,7 @@
           "failed": 0,
           "tested": 5,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "vidara · 1080p (source)": {
           "tier": "backup",
@@ -1331,7 +1347,7 @@
           "failed": 0,
           "tested": 1,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "vidara · 480p": {
           "tier": "primary",
@@ -1339,7 +1355,7 @@
           "failed": 0,
           "tested": 6,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "vidara · 720p": {
           "tier": "primary",
@@ -1347,7 +1363,7 @@
           "failed": 0,
           "tested": 6,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "vidara · 960p (source)": {
           "tier": "primary",
@@ -1355,7 +1371,7 @@
           "failed": 0,
           "tested": 5,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "vidbom": {
           "tier": "unverified",
@@ -1363,7 +1379,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "vidmoly · 1080p (source)": {
           "tier": "backup",
@@ -1371,7 +1387,7 @@
           "failed": 0,
           "tested": 1,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "vidmoly · 960p (source)": {
           "tier": "primary",
@@ -1379,7 +1395,7 @@
           "failed": 0,
           "tested": 5,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "vidshare": {
           "tier": "unverified",
@@ -1387,7 +1403,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "voe": {
           "tier": "unverified",
@@ -1395,7 +1411,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         }
       },
       "displayUrl": "https://k8w4e.sbs/series-category/english-series-dubbed/",
@@ -1435,7 +1451,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "earnvids": {
           "tier": "backup",
@@ -1939,7 +1955,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         },
         "streamwish": {
           "tier": "backup",
@@ -1947,7 +1963,7 @@
           "failed": 0,
           "tested": 1,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "uqload": {
           "tier": "backup",
@@ -1955,7 +1971,7 @@
           "failed": 0,
           "tested": 1,
           "window": 30,
-          "successRate": 1
+          "successRate": 1.0
         },
         "videotube": {
           "tier": "unverified",
@@ -1963,7 +1979,7 @@
           "failed": 1,
           "tested": 1,
           "window": 30,
-          "successRate": 0
+          "successRate": 0.0
         }
       },
       "displayUrl": "https://web5.topcinema.fan/movies/",
