@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "c0f0a5af280293c1ef19fc6d684a807fcda096d6a57cf61d69501124f49d3319",
-  "publishedAt": "2026-10-23T10:44:12.927098+00:00",
+  "revision": "0323ebbbada986d1c75bed3297b895edc5efb1558295d80d709f67d363eb433f",
+  "publishedAt": "2026-10-23T10:44:29.851999+00:00",
   "sources": [
     {
       "section": "anime",
@@ -784,8 +784,12 @@
       },
       "isPrimary": false,
       "function": "collect",
-      "hiddenServers": [],
-      "autoHiddenServers": [],
+      "hiddenServers": [
+        "doodstream"
+      ],
+      "autoHiddenServers": [
+        "doodstream"
+      ],
       "serverReliability": {
         "byse": {
           "tier": "unverified",
@@ -830,8 +834,8 @@
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 29,
-          "tested": 29,
+          "failed": 30,
+          "tested": 30,
           "window": 30,
           "successRate": 0.0
         },
@@ -918,18 +922,18 @@
         "uptostream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 4,
-          "tested": 4,
+          "failed": 5,
+          "tested": 5,
           "window": 30,
           "successRate": 0.0
         },
         "uqload": {
           "tier": "backup",
           "successful": 6,
-          "failed": 4,
-          "tested": 10,
+          "failed": 5,
+          "tested": 11,
           "window": 30,
-          "successRate": 0.6
+          "successRate": 0.5455
         },
         "uqload · 1080p (source)": {
           "tier": "primary",
@@ -1011,6 +1015,14 @@
           "window": 30,
           "successRate": 0.0
         },
+        "youdbox": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
         "متعدد الجودات": {
           "tier": "unverified",
           "successful": 0,
@@ -1021,7 +1033,7 @@
         }
       },
       "displayUrl": "https://k8w4e.sbs/series-category/anime-series-dubbed/",
-      "serverVisibilityRevision": 32,
+      "serverVisibilityRevision": 33,
       "dubbed": true
     },
     {
