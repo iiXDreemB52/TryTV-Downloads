@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "e75611b1d777094a48dddb6d0cff4ae0bc5eae636cb07ee1274d8828def08e61",
-  "publishedAt": "2026-10-23T04:56:47.454262+00:00",
+  "revision": "4308efa4b4fe092379f689009420e722b00ae7af28d6e8b4a05fd0a8c84a7b3b",
+  "publishedAt": "2026-10-23T04:57:45.429298+00:00",
   "sources": [
     {
       "section": "anime",
@@ -824,24 +824,24 @@
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 19,
-          "tested": 19,
+          "failed": 20,
+          "tested": 20,
           "window": 30,
           "successRate": 0.0
         },
         "earnvids": {
           "tier": "backup",
-          "successful": 9,
+          "successful": 10,
           "failed": 20,
-          "tested": 29,
+          "tested": 30,
           "window": 30,
-          "successRate": 0.3103
+          "successRate": 0.3333
         },
         "mixdrop": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 6,
-          "tested": 6,
+          "failed": 7,
+          "tested": 7,
           "window": 30,
           "successRate": 0.0
         },
@@ -975,7 +975,7 @@
         }
       },
       "displayUrl": "https://k8w4e.sbs/series-category/anime-series-dubbed/",
-      "serverVisibilityRevision": 15,
+      "serverVisibilityRevision": 16,
       "dubbed": true
     },
     {
