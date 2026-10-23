@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "9c09feb13fc9f6c0ec3fde83b82f2ce82d9b760ad1ae346d897864d124f3a040",
-  "publishedAt": "2026-10-23T22:03:39.672674+00:00",
+  "revision": "21dff257b50d309fd447e6ad8176a11031375b50d3c320783a360122765a252e",
+  "publishedAt": "2026-10-23T23:34:29.477367+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1718,7 +1718,219 @@
       "isPrimary": false,
       "function": "collect",
       "hiddenServers": [],
-      "displayUrl": "https://sa.t4an.net/moslslat.php"
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "سيرفر 1 · luluanime.store": {
+          "tier": "backup",
+          "successful": 12,
+          "failed": 1,
+          "tested": 13,
+          "window": 30,
+          "successRate": 0.9231
+        },
+        "سيرفر 1 · server1": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 1 · server2": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 1 · server3": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 1 · streamtape.com": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 5,
+          "tested": 5,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 1 · uqload.is": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 3,
+          "tested": 3,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 2 · stream200.online": {
+          "tier": "backup",
+          "successful": 2,
+          "failed": 2,
+          "tested": 4,
+          "window": 30,
+          "successRate": 0.5
+        },
+        "سيرفر 2 · stream200.shop": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 2,
+          "tested": 3,
+          "window": 30,
+          "successRate": 0.3333
+        },
+        "سيرفر 2 · streamtape.com": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 11,
+          "tested": 11,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 2 · uqload.is": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 4,
+          "tested": 4,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 3 · luluanime.store": {
+          "tier": "backup",
+          "successful": 2,
+          "failed": 0,
+          "tested": 2,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "سيرفر 3 · stream200.online": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 3,
+          "tested": 3,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 3 · stream200.shop": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 2,
+          "tested": 2,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 3 · streamtape.com": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 3,
+          "tested": 3,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 3 · uqload.is": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 5,
+          "tested": 5,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 4 · luluanime.store": {
+          "tier": "backup",
+          "successful": 3,
+          "failed": 0,
+          "tested": 3,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "سيرفر 4 · server2": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 4 · server3": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 4 · stream200.online": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 4 · stream200.shop": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 4 · streamtape.com": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 4 · uqload.is": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 5 · stream200.shop": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 5 · streamtape.com": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 5 · uqload.is": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 3,
+          "tested": 3,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 6 · uqload.is": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        }
+      },
+      "displayUrl": "https://sa.t4an.net/moslslat.php",
+      "serverVisibilityRevision": 20
     },
     {
       "section": "movies",
