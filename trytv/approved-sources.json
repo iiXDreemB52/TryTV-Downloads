@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "d1fa7d3a4c9fb5462c3a3587825ab84903c68205f3eee3e0190970741953fba7",
-  "publishedAt": "2026-10-23T10:55:17.621170+00:00",
+  "revision": "894ac20dd311dc1065a5eea1e9e330b68604e53519d8a10c9350702346de3194",
+  "publishedAt": "2026-10-23T11:06:00.458165+00:00",
   "sources": [
     {
       "section": "anime",
@@ -547,24 +547,24 @@
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
         "rpmshare": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
         "streamp2p": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
@@ -579,8 +579,8 @@
         "upnshare": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
@@ -595,14 +595,14 @@
         "vidtube": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=dubbed-anime",
-      "serverVisibilityRevision": 2,
+      "serverVisibilityRevision": 3,
       "loadingScreenEnabled": false,
       "dubbed": true
     },
