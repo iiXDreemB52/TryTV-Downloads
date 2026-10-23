@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "aaeab88c06ece2b5135cdcd04988bd00b99dcffdbd1412c9784a5bb18ea0c23a",
-  "publishedAt": "2026-10-23T20:40:54.544610+00:00",
+  "revision": "bacbdfe29e9c4b7a70dd2ab8fe1aad681d18f9909e8ed14e5b3de973811e2ff4",
+  "publishedAt": "2026-10-23T20:47:03.862240+00:00",
   "sources": [
     {
       "section": "anime",
@@ -696,8 +696,8 @@
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 23,
-          "tested": 23,
+          "failed": 24,
+          "tested": 24,
           "window": 30,
           "successRate": 0.0
         },
@@ -760,14 +760,14 @@
         "vidtube": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 18,
-          "tested": 18,
+          "failed": 19,
+          "tested": 19,
           "window": 30,
           "successRate": 0.0
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=spacetoon",
-      "serverVisibilityRevision": 26
+      "serverVisibilityRevision": 27
     },
     {
       "section": "movies",
