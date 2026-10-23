@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "b65557ec8af89afab9a2836d4a83ca8028af65558f1a42615ad7682473b5dbec",
-  "publishedAt": "2026-10-23T11:26:17.044545+00:00",
+  "revision": "87d486d4d98bd73f6c18b4971e3dd0447c0eec5dc1c27cb1f69266ee08154a0c",
+  "publishedAt": "2026-10-23T11:38:09.993710+00:00",
   "sources": [
     {
       "section": "anime",
@@ -547,24 +547,40 @@
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 4,
-          "tested": 4,
+          "failed": 5,
+          "tested": 5,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "easyvidplay": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
           "window": 30,
           "successRate": 0.0
         },
         "rpmshare": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 4,
-          "tested": 4,
+          "failed": 5,
+          "tested": 5,
           "window": 30,
           "successRate": 0.0
         },
         "streamp2p": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 4,
-          "tested": 4,
+          "failed": 5,
+          "tested": 5,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "streamruby": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
           "window": 30,
           "successRate": 0.0
         },
@@ -576,11 +592,19 @@
           "window": 30,
           "successRate": 1.0
         },
+        "turboviplay": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
         "upnshare": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 4,
-          "tested": 4,
+          "failed": 5,
+          "tested": 5,
           "window": 30,
           "successRate": 0.0
         },
@@ -595,14 +619,14 @@
         "vidtube": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 4,
-          "tested": 4,
+          "failed": 5,
+          "tested": 5,
           "window": 30,
           "successRate": 0.0
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=dubbed-anime",
-      "serverVisibilityRevision": 5,
+      "serverVisibilityRevision": 6,
       "loadingScreenEnabled": false,
       "dubbed": true
     },
