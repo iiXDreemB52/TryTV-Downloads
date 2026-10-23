@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "36729651abc40dbb98326081e39af7bddf6931514ebd892f3932a4a445ef372f",
-  "publishedAt": "2026-10-23T09:54:35.638026+00:00",
+  "revision": "c0f0a5af280293c1ef19fc6d684a807fcda096d6a57cf61d69501124f49d3319",
+  "publishedAt": "2026-10-23T10:44:12.927098+00:00",
   "sources": [
     {
       "section": "anime",
@@ -762,7 +762,8 @@
         "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%ad%d8%b1%d8%a8-%d8%a7%d9%84%d9%86%d8%ac%d9%88%d9%85-%d8%b1%d8%a4%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83/",
         "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%ad%d8%b1%d8%a8-%d8%a7%d9%84%d9%86%d8%ac%d9%88%d9%85-%d8%b1%d8%a4%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d9%85%d8%af%d8%a8%d9%84%d8%ac/",
         "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%b3%d9%84%d8%a7%d9%8a%d9%85-%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
-        "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d9%84%d9%8a%d9%86%d9%83-%d9%83%d9%84%d9%8a%d9%83-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/"
+        "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d9%84%d9%8a%d9%86%d9%83-%d9%83%d9%84%d9%8a%d9%83-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
+        "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d9%85%d9%8a%d8%ba%d8%a7%d9%84%d9%88-%d8%a8%d9%88%d9%83%d8%b3-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7/"
       ],
       "enabled": true,
       "adapter": "verified-publisher-work-route-maps",
