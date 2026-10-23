@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "a93f59cc3e01e2c76ab1bde384c39f5bda2e106107f2ec29bbc2d765da05c18a",
-  "publishedAt": "2026-10-23T06:36:45.355997+00:00",
+  "revision": "076c449437e9ce4d8018e2ca8ba2c4e95bc5231291adafa5beabbb232732fdfa",
+  "publishedAt": "2026-10-23T07:13:03.163324+00:00",
   "sources": [
     {
       "section": "anime",
@@ -759,6 +759,7 @@
       "contentType": "mixed",
       "name": "K8W4E - أنمي مدبلج",
       "hiddenWorks": [
+        "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%ad%d8%b1%d8%a8-%d8%a7%d9%84%d9%86%d8%ac%d9%88%d9%85-%d8%b1%d8%a4%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d9%85%d8%af%d8%a8%d9%84%d8%ac/",
         "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d9%84%d9%8a%d9%86%d9%83-%d9%83%d9%84%d9%8a%d9%83-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/"
       ],
       "enabled": true,
