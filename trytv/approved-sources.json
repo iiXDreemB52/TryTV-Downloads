@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "431f3a82a599794ab08393eb150d19891e3cb1febc9b42979394461b96ae8153",
-  "publishedAt": "2026-10-22T23:58:39.863985+00:00",
+  "revision": "9ef71578da919f0bdd58381aa9cf990ee24d574970c2264c5094b2f82823ea08",
+  "publishedAt": "2026-10-23T00:02:48.977510+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1052,8 +1052,8 @@
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
@@ -1064,6 +1064,14 @@
           "tested": 30,
           "window": 30,
           "successRate": 0.4
+        },
+        "mixdrop": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
         },
         "streamix": {
           "tier": "backup",
@@ -1176,10 +1184,18 @@
           "tested": 5,
           "window": 30,
           "successRate": 1.0
+        },
+        "voe": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
         }
       },
       "displayUrl": "https://k8w4e.sbs/series-category/english-series-dubbed/",
-      "serverVisibilityRevision": 1,
+      "serverVisibilityRevision": 2,
       "dubbed": true
     },
     {
