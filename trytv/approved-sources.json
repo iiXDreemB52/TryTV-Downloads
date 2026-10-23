@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "57d6a8a508a4def2ad21fcff9ed3ba0aa49bb30191326c5dc1aa2462f7159311",
-  "publishedAt": "2026-10-23T05:45:24.677377+00:00",
+  "revision": "deb384c16163b313f93a6e161b630c7a69d4f536b24b06ac58cff83beb4f729c",
+  "publishedAt": "2026-10-23T05:53:09.283483+00:00",
   "sources": [
     {
       "section": "anime",
@@ -826,8 +826,8 @@
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 24,
-          "tested": 24,
+          "failed": 25,
+          "tested": 25,
           "window": 30,
           "successRate": 0.0
         },
@@ -977,7 +977,7 @@
         }
       },
       "displayUrl": "https://k8w4e.sbs/series-category/anime-series-dubbed/",
-      "serverVisibilityRevision": 20,
+      "serverVisibilityRevision": 21,
       "dubbed": true
     },
     {
