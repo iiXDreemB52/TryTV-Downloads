@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "f842f9853b335285922a02513864fbb81bf5b1ff3f6158e605cd1241842b0b42",
-  "publishedAt": "2026-10-23T16:25:28.046Z",
+  "revision": "f55d244e79b2945d8f75a7b0e20a3c9071207265a4e26bf3c603f5f3e8470b7a",
+  "publishedAt": "2026-10-23T16:34:24.342Z",
   "sources": [
     {
       "section": "anime",
@@ -69,10 +69,10 @@
         "doodstream": {
           "tier": "backup",
           "successful": 1,
-          "failed": 8,
-          "tested": 9,
+          "failed": 9,
+          "tested": 10,
           "window": 30,
-          "successRate": 0.1111
+          "successRate": 0.1
         },
         "playmate": {
           "tier": "backup",
@@ -85,18 +85,18 @@
         "rpmshare": {
           "tier": "backup",
           "successful": 1,
-          "failed": 7,
-          "tested": 8,
-          "window": 30,
-          "successRate": 0.125
-        },
-        "streamp2p": {
-          "tier": "backup",
-          "successful": 1,
           "failed": 8,
           "tested": 9,
           "window": 30,
           "successRate": 0.1111
+        },
+        "streamp2p": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 9,
+          "tested": 10,
+          "window": 30,
+          "successRate": 0.1
         },
         "streamwish": {
           "tier": "backup",
@@ -117,30 +117,30 @@
         "upnshare": {
           "tier": "backup",
           "successful": 1,
-          "failed": 14,
-          "tested": 15,
+          "failed": 15,
+          "tested": 16,
           "window": 30,
-          "successRate": 0.0667
+          "successRate": 0.0625
         },
         "uqload": {
           "tier": "backup",
-          "successful": 25,
-          "failed": 5,
+          "successful": 24,
+          "failed": 6,
           "tested": 30,
           "window": 30,
-          "successRate": 0.8333
+          "successRate": 0.8
         },
         "vidtube": {
           "tier": "backup",
           "successful": 1,
-          "failed": 11,
-          "tested": 12,
+          "failed": 12,
+          "tested": 13,
           "window": 30,
-          "successRate": 0.0833
+          "successRate": 0.0769
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=cartoon",
-      "serverVisibilityRevision": 15
+      "serverVisibilityRevision": 16
     },
     {
       "section": "movies",
