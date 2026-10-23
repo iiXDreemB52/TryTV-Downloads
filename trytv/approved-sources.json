@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "b1d949a04b4b297a1cf6775b8262ecb5dad3e102d133dc791a3c55c698a52afc",
-  "publishedAt": "2026-10-22T23:27:45.410974+00:00",
+  "revision": "431f3a82a599794ab08393eb150d19891e3cb1febc9b42979394461b96ae8153",
+  "publishedAt": "2026-10-22T23:58:39.863985+00:00",
   "sources": [
     {
       "section": "anime",
@@ -992,7 +992,8 @@
       "contentType": "mixed",
       "name": "K8W4E - مسلسلات أجنبية مدبلجة",
       "hiddenWorks": [
-        "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b1%d8%aa%d8%b9%d8%a8-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/"
+        "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b1%d8%aa%d8%b9%d8%a8-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
+        "https://k8w4e.sbs/season/bandi-s01-ar/"
       ],
       "enabled": true,
       "adapter": "verified-publisher-work-route-maps",
