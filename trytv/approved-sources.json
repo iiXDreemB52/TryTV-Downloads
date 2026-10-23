@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "898d1ad4f22fbf334dd93f63766a8d48a73781dd851ed5635defb5830c72870f",
-  "publishedAt": "2026-10-23T02:38:47.075337+00:00",
+  "revision": "c2f6d2426f35700918ee07b10ab76b4725b5a0f74341ea5aa44878a90b771798",
+  "publishedAt": "2026-10-23T03:04:28.578222+00:00",
   "sources": [
     {
       "section": "anime",
@@ -994,6 +994,7 @@
       "hiddenWorks": [
         "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b1%d8%aa%d8%b9%d8%a8-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
         "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b1%d9%81%d8%a7%d9%82-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
+        "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d8%b3%d8%a7%d9%88%d8%b3-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
         "https://k8w4e.sbs/season/bandi-s01-ar/"
       ],
       "enabled": true,
