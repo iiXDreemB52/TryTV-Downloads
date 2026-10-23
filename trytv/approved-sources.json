@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "7fbe271c50e1f000eba5b790ce84dfe4aa03889f8cd6ebaf228deccdd3541131",
-  "publishedAt": "2026-10-23T04:16:25.383981+00:00",
+  "revision": "2b6b62abd99166ce7d33ec058d0051de6208c7b84454d4b0b26cdb8330e75723",
+  "publishedAt": "2026-10-23T04:17:59.183461+00:00",
   "sources": [
     {
       "section": "anime",
@@ -824,24 +824,24 @@
         "doodstream": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 11,
-          "tested": 11,
+          "failed": 12,
+          "tested": 12,
           "window": 30,
           "successRate": 0.0
         },
         "earnvids": {
           "tier": "backup",
           "successful": 7,
-          "failed": 17,
-          "tested": 24,
+          "failed": 18,
+          "tested": 25,
           "window": 30,
-          "successRate": 0.2917
+          "successRate": 0.28
         },
         "mixdrop": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 2,
-          "tested": 2,
+          "failed": 3,
+          "tested": 3,
           "window": 30,
           "successRate": 0.0
         },
@@ -855,11 +855,11 @@
         },
         "streamix": {
           "tier": "backup",
-          "successful": 6,
+          "successful": 7,
           "failed": 5,
-          "tested": 11,
+          "tested": 12,
           "window": 30,
-          "successRate": 0.5455
+          "successRate": 0.5833
         },
         "streamruby": {
           "tier": "backup",
@@ -952,8 +952,8 @@
         "voe": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 4,
-          "tested": 4,
+          "failed": 5,
+          "tested": 5,
           "window": 30,
           "successRate": 0.0
         },
@@ -975,7 +975,7 @@
         }
       },
       "displayUrl": "https://k8w4e.sbs/series-category/anime-series-dubbed/",
-      "serverVisibilityRevision": 7,
+      "serverVisibilityRevision": 8,
       "dubbed": true
     },
     {
