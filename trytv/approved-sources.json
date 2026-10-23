@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "076c449437e9ce4d8018e2ca8ba2c4e95bc5231291adafa5beabbb232732fdfa",
-  "publishedAt": "2026-10-23T07:13:03.163324+00:00",
+  "revision": "6b4bb3b4cbee7337fb0e3063ddffb42635d3c2d5eafa1dd62e9c7e73cb6e1300",
+  "publishedAt": "2026-10-23T07:13:16.094644+00:00",
   "sources": [
     {
       "section": "anime",
@@ -840,6 +840,14 @@
           "window": 30,
           "successRate": 0.3
         },
+        "goved": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
         "mixdrop": {
           "tier": "unverified",
           "successful": 0,
@@ -896,13 +904,21 @@
           "window": 30,
           "successRate": 0.0
         },
+        "uptostream": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
         "uqload": {
           "tier": "backup",
           "successful": 6,
-          "failed": 1,
-          "tested": 7,
+          "failed": 2,
+          "tested": 8,
           "window": 30,
-          "successRate": 0.8571
+          "successRate": 0.75
         },
         "uqload · 1080p (source)": {
           "tier": "primary",
@@ -944,6 +960,14 @@
           "window": 30,
           "successRate": 0.0
         },
+        "vidbom": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
         "vidmoly · 1080p (source)": {
           "tier": "backup",
           "successful": 2,
@@ -951,6 +975,14 @@
           "tested": 2,
           "window": 30,
           "successRate": 1.0
+        },
+        "vidshare": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
         },
         "voe": {
           "tier": "unverified",
@@ -978,7 +1010,7 @@
         }
       },
       "displayUrl": "https://k8w4e.sbs/series-category/anime-series-dubbed/",
-      "serverVisibilityRevision": 26,
+      "serverVisibilityRevision": 27,
       "dubbed": true
     },
     {
