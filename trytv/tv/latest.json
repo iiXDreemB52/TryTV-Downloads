@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "packageName": "net.bg5.trytv.tv",
+  "versionCode": 5,
+  "versionName": "0.2.3-tv",
+  "apkUrl": "https://raw.githubusercontent.com/iiXDreemB52/TryTV-Downloads/d5ca4173baba655af7024d4832065fcb3971da56/tv/TryTV-Google-TV-0.2.3.apk",
+  "sizeBytes": 7427100,
+  "sha256": "eb3dc36f6ad8994466861958373677b8a917ea2bb8f5ae3a04d0acc4c9ef8e3e",
+  "notes": "تحسين الواجهة للشاشات: تصفح أنواع المحتوى وزر عرض الكل لكل نوع، شريط جانبي بالأيقونات مع أسماء تظهر عند التركيز، إخفاء تبويبات الأقسام خارج التصفح، تحسين التكيّف مع دقة الشاشة."
+}
