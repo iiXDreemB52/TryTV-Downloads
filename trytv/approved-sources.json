@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "9919227d5722b87fa0c1d09d85a83fa9e9a2172a1f4933d60a2e010b7915ba45",
-  "publishedAt": "2026-10-23T14:37:24.849536+00:00",
+  "revision": "ccb10ccdfb6ad207b925114fc25178807df103afdf1afbabc58fb1feb584860c",
+  "publishedAt": "2026-10-23T14:46:21.830042+00:00",
   "sources": [
     {
       "section": "anime",
@@ -69,10 +69,10 @@
         "doodstream": {
           "tier": "backup",
           "successful": 1,
-          "failed": 1,
-          "tested": 2,
+          "failed": 2,
+          "tested": 3,
           "window": 30,
-          "successRate": 0.5
+          "successRate": 0.3333
         },
         "playmate": {
           "tier": "backup",
@@ -85,18 +85,18 @@
         "rpmshare": {
           "tier": "backup",
           "successful": 1,
-          "failed": 1,
-          "tested": 2,
+          "failed": 2,
+          "tested": 3,
           "window": 30,
-          "successRate": 0.5
+          "successRate": 0.3333
         },
         "streamp2p": {
           "tier": "backup",
           "successful": 1,
-          "failed": 1,
-          "tested": 2,
+          "failed": 2,
+          "tested": 3,
           "window": 30,
-          "successRate": 0.5
+          "successRate": 0.3333
         },
         "streamwish": {
           "tier": "backup",
@@ -117,10 +117,10 @@
         "upnshare": {
           "tier": "backup",
           "successful": 1,
-          "failed": 1,
-          "tested": 2,
+          "failed": 2,
+          "tested": 3,
           "window": 30,
-          "successRate": 0.5
+          "successRate": 0.3333
         },
         "uqload": {
           "tier": "primary",
@@ -140,7 +140,7 @@
         }
       },
       "displayUrl": "https://animezid.org/category.php?cat=cartoon",
-      "serverVisibilityRevision": 2
+      "serverVisibilityRevision": 3
     },
     {
       "section": "movies",
