@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "153dda9ba13097ae0f7ec87a316dec51cc688ff7e7c784f6232118dc52426e70",
-  "publishedAt": "2026-10-24T01:56:43.046120+00:00",
+  "revision": "f61a968e86ac809f653400aff4538d313755cf64c226087182b4febfc08c5367",
+  "publishedAt": "2026-10-24T01:57:59.633677+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1794,8 +1794,8 @@
         "سيرفر 1 · uqload.is": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 5,
-          "tested": 5,
+          "failed": 6,
+          "tested": 6,
           "window": 30,
           "successRate": 0.0
         },
@@ -1818,8 +1818,8 @@
         "سيرفر 2 · streamtape.com": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 12,
-          "tested": 12,
+          "failed": 13,
+          "tested": 13,
           "window": 30,
           "successRate": 0.0
         },
@@ -1842,8 +1842,8 @@
         "سيرفر 3 · stream200.online": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 6,
-          "tested": 6,
+          "failed": 7,
+          "tested": 7,
           "window": 30,
           "successRate": 0.0
         },
@@ -1873,9 +1873,9 @@
         },
         "سيرفر 4 · luluanime.store": {
           "tier": "backup",
-          "successful": 3,
+          "successful": 4,
           "failed": 0,
-          "tested": 3,
+          "tested": 4,
           "window": 30,
           "successRate": 1.0
         },
@@ -1969,7 +1969,7 @@
         }
       },
       "displayUrl": "https://sa.t4an.net/moslslat.php",
-      "serverVisibilityRevision": 27
+      "serverVisibilityRevision": 28
     },
     {
       "section": "movies",
