@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "e87d141dcac1f3d94d5470e96f3b0436f4495efefe5eb87067c3dba0a4bba3eb",
-  "publishedAt": "2026-10-24T09:17:26.362457+00:00",
+  "revision": "06260b4241acb12f3e419097b2ed9eff48f821a65361ee534a9f6adbf72627b4",
+  "publishedAt": "2026-10-24T09:20:19.578747+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1314,8 +1314,8 @@
         "streamwish": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 23,
-          "tested": 23,
+          "failed": 24,
+          "tested": 24,
           "window": 30,
           "successRate": 0.0
         },
@@ -1368,12 +1368,12 @@
           "successRate": 0.0
         },
         "vidmoly": {
-          "tier": "backup",
-          "successful": 29,
-          "failed": 1,
+          "tier": "primary",
+          "successful": 30,
+          "failed": 0,
           "tested": 30,
           "window": 30,
-          "successRate": 0.9667
+          "successRate": 1.0
         }
       },
       "displayUrl": "https://ristoanime.me/",
@@ -1382,7 +1382,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 97,
+      "serverVisibilityRevision": 98,
       "loadingScreenEnabled": true
     },
     {
