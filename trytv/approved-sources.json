@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "9e6fce31473bb55ce514f954480a470167fe2560542857e1f9efb93cebe74627",
-  "publishedAt": "2026-10-24T11:10:12.180130+00:00",
+  "revision": "3a94922088cbaf86531254c137f64be42f7a4a34cf0418b6346afacdc174a7ba",
+  "publishedAt": "2026-10-24T11:11:29.827313+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1196,6 +1196,7 @@
       "contentType": "mixed",
       "name": "RistoAnime",
       "hiddenWorks": [
+        "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-high-school-kimengumi-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-mushoku-tensei-isekai-ittara-honki-dasu-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-osomatsu-san-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-prism-rondo-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/"
@@ -1372,11 +1373,11 @@
         },
         "vidmoly": {
           "tier": "backup",
-          "successful": 29,
-          "failed": 1,
+          "successful": 28,
+          "failed": 2,
           "tested": 30,
           "window": 30,
-          "successRate": 0.9667
+          "successRate": 0.9333
         }
       },
       "displayUrl": "https://ristoanime.me/",
@@ -1385,7 +1386,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 108,
+      "serverVisibilityRevision": 109,
       "loadingScreenEnabled": true
     },
     {
