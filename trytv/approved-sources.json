@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "30b75ae3123319bbd3a20b9c42183bd41ea0d4e3fe8407eeec8a3b17d08b6bfb",
-  "publishedAt": "2026-10-24T19:35:26.289971+00:00",
+  "revision": "49f7da24264ba91c0b58418efaa465552698da3c54c8645c5dd89a14211fd6bb",
+  "publishedAt": "2026-10-24T19:37:43.218957+00:00",
   "sources": [
     {
       "section": "anime",
@@ -664,6 +664,7 @@
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-cengjing-you-yongshi-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-chanto-suenai-kyuuketsuki-chan-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+        "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-egao-no-taenai-shokuba-desu-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-high-school-kimengumi-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-kaguya-sama-wa-kokurasetai-otona-e-no-kaidan-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7/",
@@ -693,7 +694,6 @@
       "isPrimary": true,
       "function": "combined",
       "hiddenServers": [
-        "mega",
         "mp4upload",
         "sendvid",
         "sibnet",
@@ -702,7 +702,6 @@
         "uqload"
       ],
       "autoHiddenServers": [
-        "mega",
         "mp4upload",
         "sendvid",
         "sibnet",
@@ -744,12 +743,12 @@
           "successRate": 0.0
         },
         "mega": {
-          "tier": "unverified",
-          "successful": 0,
-          "failed": 30,
+          "tier": "backup",
+          "successful": 24,
+          "failed": 6,
           "tested": 30,
           "window": 30,
-          "successRate": 0.0
+          "successRate": 0.8
         },
         "mp4upload": {
           "tier": "unverified",
@@ -762,8 +761,8 @@
         "ok.ru – fhd": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 19,
-          "tested": 19,
+          "failed": 20,
+          "tested": 20,
           "window": 30,
           "successRate": 0.0
         },
@@ -856,66 +855,66 @@
           "successRate": 0.5667
         },
         "سيرفر 1": {
-          "tier": "backup",
-          "successful": 1,
-          "failed": 8,
-          "tested": 9,
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 10,
+          "tested": 10,
           "window": 30,
-          "successRate": 0.1111
+          "successRate": 0.0
         },
         "سيرفر 1.2": {
           "tier": "backup",
           "successful": 8,
-          "failed": 1,
-          "tested": 9,
+          "failed": 2,
+          "tested": 10,
           "window": 30,
-          "successRate": 0.8889
+          "successRate": 0.8
         },
         "سيرفر 2": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 9,
-          "tested": 9,
+          "failed": 10,
+          "tested": 10,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 3": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 9,
-          "tested": 9,
+          "failed": 10,
+          "tested": 10,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 3.1": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 9,
-          "tested": 9,
+          "failed": 10,
+          "tested": 10,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 4": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 8,
-          "tested": 8,
+          "failed": 9,
+          "tested": 9,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 5": {
           "tier": "backup",
           "successful": 1,
-          "failed": 8,
-          "tested": 9,
+          "failed": 9,
+          "tested": 10,
           "window": 30,
-          "successRate": 0.1111
+          "successRate": 0.1
         },
         "سيرفر احتياطي 1": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 8,
-          "tested": 8,
+          "failed": 9,
+          "tested": 9,
           "window": 30,
           "successRate": 0.0
         }
@@ -926,7 +925,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 139,
+      "serverVisibilityRevision": 140,
       "loadingScreenEnabled": true
     },
     {
