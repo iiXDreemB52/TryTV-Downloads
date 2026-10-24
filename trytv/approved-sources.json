@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "9fcc32c978ddc16124de1095bdcc8576cff2c0c4299799afb33a58512fa01e43",
-  "publishedAt": "2026-10-24T09:22:30.036653+00:00",
+  "revision": "dfaac99cc0b4736a341623acb0f126ee8985b386548def5e8259152cde050102",
+  "publishedAt": "2026-10-24T09:24:56.370888+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1314,8 +1314,8 @@
         "streamwish": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 25,
-          "tested": 25,
+          "failed": 26,
+          "tested": 26,
           "window": 30,
           "successRate": 0.0
         },
@@ -1382,7 +1382,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 99,
+      "serverVisibilityRevision": 100,
       "loadingScreenEnabled": true
     },
     {
