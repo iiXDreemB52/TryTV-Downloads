@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "eeaf91f592e1827265be71319173481d52750305797937b91e786c0ad6f8abf7",
-  "publishedAt": "2026-10-24T05:21:52.643338+00:00",
+  "revision": "896cf202cb826996e725a43468dd0f7c9801bb0148dd3e6d705b5c164ccdd6f4",
+  "publishedAt": "2026-10-24T05:33:33.708980+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1219,12 +1219,20 @@
         "listeamed.net": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
         "mega": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 6,
+          "tested": 6,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "mp4upload": {
           "tier": "unverified",
           "successful": 0,
           "failed": 5,
@@ -1232,35 +1240,35 @@
           "window": 30,
           "successRate": 0.0
         },
-        "mp4upload": {
+        "playerwish.com": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 4,
-          "tested": 4,
+          "failed": 1,
+          "tested": 1,
           "window": 30,
           "successRate": 0.0
         },
         "sendvid": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 4,
-          "tested": 4,
+          "failed": 5,
+          "tested": 5,
           "window": 30,
           "successRate": 0.0
         },
         "sibnet": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 2,
-          "tested": 2,
+          "failed": 3,
+          "tested": 3,
           "window": 30,
           "successRate": 0.0
         },
         "streamwish": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
@@ -1275,20 +1283,28 @@
         "upns": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 3,
-          "tested": 3,
+          "failed": 4,
+          "tested": 4,
           "window": 30,
           "successRate": 0.0
         },
         "uqload": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 4,
-          "tested": 4,
+          "failed": 5,
+          "tested": 5,
           "window": 30,
           "successRate": 0.0
         },
         "uqload.cx": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 2,
+          "tested": 2,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "uqload.ws": {
           "tier": "unverified",
           "successful": 0,
           "failed": 1,
@@ -1311,7 +1327,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 38,
+      "serverVisibilityRevision": 39,
       "loadingScreenEnabled": true
     },
     {
