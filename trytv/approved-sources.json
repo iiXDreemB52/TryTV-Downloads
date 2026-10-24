@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "5c9082aa6dbc7d014e1a5bee5259b7b576d4b989e4aad7d63ca55c0f2f7417ff",
-  "publishedAt": "2026-10-24T01:51:47.135409+00:00",
+  "revision": "4dced4d2b4df7f1776c1337a699f735d9e3dd60cabab499c710170a5cbce3575",
+  "publishedAt": "2026-10-24T01:53:57.113941+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1753,11 +1753,11 @@
       "serverReliability": {
         "سيرفر 1 · luluanime.store": {
           "tier": "backup",
-          "successful": 13,
+          "successful": 14,
           "failed": 2,
-          "tested": 15,
+          "tested": 16,
           "window": 30,
-          "successRate": 0.8667
+          "successRate": 0.875
         },
         "سيرفر 1 · server1": {
           "tier": "unverified",
@@ -1810,10 +1810,10 @@
         "سيرفر 2 · stream200.shop": {
           "tier": "backup",
           "successful": 2,
-          "failed": 3,
-          "tested": 5,
+          "failed": 4,
+          "tested": 6,
           "window": 30,
-          "successRate": 0.4
+          "successRate": 0.3333
         },
         "سيرفر 2 · streamtape.com": {
           "tier": "unverified",
@@ -1842,8 +1842,8 @@
         "سيرفر 3 · stream200.online": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 5,
-          "tested": 5,
+          "failed": 6,
+          "tested": 6,
           "window": 30,
           "successRate": 0.0
         },
@@ -1922,8 +1922,8 @@
         "سيرفر 4 · uqload.is": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 2,
-          "tested": 2,
+          "failed": 3,
+          "tested": 3,
           "window": 30,
           "successRate": 0.0
         },
@@ -1954,8 +1954,8 @@
         "سيرفر 6 · streamtape.com": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
@@ -1969,7 +1969,7 @@
         }
       },
       "displayUrl": "https://sa.t4an.net/moslslat.php",
-      "serverVisibilityRevision": 25
+      "serverVisibilityRevision": 26
     },
     {
       "section": "movies",
