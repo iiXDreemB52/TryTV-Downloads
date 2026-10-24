@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "ee44d0de5942d858b695b0f73b8fbc47071f103ede79bc3059790b069f84ea4b",
-  "publishedAt": "2026-10-24T06:50:21.808463+00:00",
+  "revision": "d5d94a93b41939f8f3b70419770d2ce9c213b58d0a310740e762a4c5090dd541",
+  "publishedAt": "2026-10-24T06:51:16.759723+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1100,7 +1100,6 @@
       "section": "series",
       "contentType": "series_foreign",
       "name": "قرمزي - مسلسلات تركية",
-      "logo": "https://krmzi.org/wp-content/uploads/2026/02/cropped-faviconkrmzi-192x192.png",
       "hiddenWorks": [],
       "enabled": true,
       "adapter": "krmizi-qesen-embed-v3",
@@ -1214,8 +1213,14 @@
       },
       "isPrimary": true,
       "function": "combined",
-      "hiddenServers": [],
-      "autoHiddenServers": [],
+      "hiddenServers": [
+        "mega",
+        "mp4upload"
+      ],
+      "autoHiddenServers": [
+        "mega",
+        "mp4upload"
+      ],
       "serverReliability": {
         "listeamed.net": {
           "tier": "unverified",
@@ -1228,16 +1233,16 @@
         "mega": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 29,
-          "tested": 29,
+          "failed": 30,
+          "tested": 30,
           "window": 30,
           "successRate": 0.0
         },
         "mp4upload": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 29,
-          "tested": 29,
+          "failed": 30,
+          "tested": 30,
           "window": 30,
           "successRate": 0.0
         },
@@ -1252,16 +1257,16 @@
         "sendvid": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 24,
-          "tested": 24,
+          "failed": 25,
+          "tested": 25,
           "window": 30,
           "successRate": 0.0
         },
         "sibnet": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 19,
-          "tested": 19,
+          "failed": 20,
+          "tested": 20,
           "window": 30,
           "successRate": 0.0
         },
@@ -1276,8 +1281,8 @@
         "turbovidhls.com": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 17,
-          "tested": 17,
+          "failed": 18,
+          "tested": 18,
           "window": 30,
           "successRate": 0.0
         },
@@ -1292,8 +1297,8 @@
         "uqload": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 26,
-          "tested": 26,
+          "failed": 27,
+          "tested": 27,
           "window": 30,
           "successRate": 0.0
         },
@@ -1328,7 +1333,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 63,
+      "serverVisibilityRevision": 64,
       "loadingScreenEnabled": true
     },
     {
