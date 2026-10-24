@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "44de01d984a21c81228e257f385ad7332ab39329d552975f3f3b3572973aa9fd",
-  "publishedAt": "2026-10-24T06:35:21.803040+00:00",
+  "revision": "8c2009820b0ac70304ee8c6bd1daf503fa4c3e6e64de895329a9321fc90e4b42",
+  "publishedAt": "2026-10-24T06:37:20.390764+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1100,7 +1100,6 @@
       "section": "series",
       "contentType": "series_foreign",
       "name": "قرمزي - مسلسلات تركية",
-      "logo": "https://krmzi.org/wp-content/uploads/2026/02/cropped-faviconkrmzi-192x192.png",
       "hiddenWorks": [],
       "enabled": true,
       "adapter": "krmizi-qesen-embed-v3",
@@ -1228,16 +1227,16 @@
         "mega": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 24,
-          "tested": 24,
+          "failed": 25,
+          "tested": 25,
           "window": 30,
           "successRate": 0.0
         },
         "mp4upload": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 24,
-          "tested": 24,
+          "failed": 25,
+          "tested": 25,
           "window": 30,
           "successRate": 0.0
         },
@@ -1252,16 +1251,16 @@
         "sendvid": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 19,
-          "tested": 19,
+          "failed": 20,
+          "tested": 20,
           "window": 30,
           "successRate": 0.0
         },
         "sibnet": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 14,
-          "tested": 14,
+          "failed": 15,
+          "tested": 15,
           "window": 30,
           "successRate": 0.0
         },
@@ -1276,8 +1275,8 @@
         "turbovidhls.com": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 12,
-          "tested": 12,
+          "failed": 13,
+          "tested": 13,
           "window": 30,
           "successRate": 0.0
         },
@@ -1292,8 +1291,8 @@
         "uqload": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 21,
-          "tested": 21,
+          "failed": 22,
+          "tested": 22,
           "window": 30,
           "successRate": 0.0
         },
@@ -1328,7 +1327,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 58,
+      "serverVisibilityRevision": 59,
       "loadingScreenEnabled": true
     },
     {
