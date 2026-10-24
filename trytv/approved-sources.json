@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "56c023e7a9e3287a2b3c1e21f8609ac5b8951c1eb43ed39e9b8f83e4812d6112",
-  "publishedAt": "2026-10-24T01:49:00.377039+00:00",
+  "revision": "062bf366b1d4703660f566692feae6aee6d6cf3eb66612957a2df58864ccb27e",
+  "publishedAt": "2026-10-24T01:51:06.654068+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1753,11 +1753,11 @@
       "serverReliability": {
         "سيرفر 1 · luluanime.store": {
           "tier": "backup",
-          "successful": 12,
+          "successful": 13,
           "failed": 1,
-          "tested": 13,
+          "tested": 14,
           "window": 30,
-          "successRate": 0.9231
+          "successRate": 0.9286
         },
         "سيرفر 1 · server1": {
           "tier": "unverified",
@@ -1810,10 +1810,10 @@
         "سيرفر 2 · stream200.shop": {
           "tier": "backup",
           "successful": 1,
-          "failed": 2,
-          "tested": 3,
+          "failed": 3,
+          "tested": 4,
           "window": 30,
-          "successRate": 0.3333
+          "successRate": 0.25
         },
         "سيرفر 2 · streamtape.com": {
           "tier": "unverified",
@@ -1842,8 +1842,8 @@
         "سيرفر 3 · stream200.online": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 4,
-          "tested": 4,
+          "failed": 5,
+          "tested": 5,
           "window": 30,
           "successRate": 0.0
         },
@@ -1922,8 +1922,8 @@
         "سيرفر 4 · uqload.is": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
@@ -1951,6 +1951,14 @@
           "window": 30,
           "successRate": 0.0
         },
+        "سيرفر 6 · streamtape.com": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
         "سيرفر 6 · uqload.is": {
           "tier": "unverified",
           "successful": 0,
@@ -1961,7 +1969,7 @@
         }
       },
       "displayUrl": "https://sa.t4an.net/moslslat.php",
-      "serverVisibilityRevision": 23
+      "serverVisibilityRevision": 24
     },
     {
       "section": "movies",
