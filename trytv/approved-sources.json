@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "ab0bd15d261f35228091eaabd7af694995fbe8186df9b27e38dd873d9b44c01f",
-  "publishedAt": "2026-10-24T18:14:32.035052+00:00",
+  "revision": "fb190905acb89cb5e81b8d4535f0be17c1ca7a173be3d83c593ebc0673a589b0",
+  "publishedAt": "2026-10-24T18:19:32.048782+00:00",
   "sources": [
     {
       "section": "anime",
@@ -856,12 +856,12 @@
           "successRate": 0.5667
         },
         "سيرفر 1": {
-          "tier": "unverified",
-          "successful": 0,
-          "failed": 4,
+          "tier": "backup",
+          "successful": 1,
+          "failed": 3,
           "tested": 4,
           "window": 30,
-          "successRate": 0.0
+          "successRate": 0.25
         },
         "سيرفر 1.2": {
           "tier": "backup",
@@ -926,7 +926,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 130,
+      "serverVisibilityRevision": 131,
       "loadingScreenEnabled": true
     },
     {
