@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "4dced4d2b4df7f1776c1337a699f735d9e3dd60cabab499c710170a5cbce3575",
-  "publishedAt": "2026-10-24T01:53:57.113941+00:00",
+  "revision": "153dda9ba13097ae0f7ec87a316dec51cc688ff7e7c784f6232118dc52426e70",
+  "publishedAt": "2026-10-24T01:56:43.046120+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1786,8 +1786,8 @@
         "سيرفر 1 · streamtape.com": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 7,
-          "tested": 7,
+          "failed": 8,
+          "tested": 8,
           "window": 30,
           "successRate": 0.0
         },
@@ -1802,10 +1802,10 @@
         "سيرفر 2 · stream200.online": {
           "tier": "backup",
           "successful": 2,
-          "failed": 3,
-          "tested": 5,
+          "failed": 4,
+          "tested": 6,
           "window": 30,
-          "successRate": 0.4
+          "successRate": 0.3333
         },
         "سيرفر 2 · stream200.shop": {
           "tier": "backup",
@@ -1833,9 +1833,9 @@
         },
         "سيرفر 3 · luluanime.store": {
           "tier": "backup",
-          "successful": 3,
+          "successful": 4,
           "failed": 0,
-          "tested": 3,
+          "tested": 4,
           "window": 30,
           "successRate": 1.0
         },
@@ -1882,8 +1882,8 @@
         "سيرفر 4 · server2": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
@@ -1946,8 +1946,8 @@
         "سيرفر 5 · uqload.is": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 3,
-          "tested": 3,
+          "failed": 4,
+          "tested": 4,
           "window": 30,
           "successRate": 0.0
         },
@@ -1969,7 +1969,7 @@
         }
       },
       "displayUrl": "https://sa.t4an.net/moslslat.php",
-      "serverVisibilityRevision": 26
+      "serverVisibilityRevision": 27
     },
     {
       "section": "movies",
