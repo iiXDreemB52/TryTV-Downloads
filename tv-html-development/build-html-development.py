@@ -39,7 +39,8 @@ def js_inline(m):
     if name=='app.js':
         # Production app erroneously calls status() but has no status function.
         # Supply a local-only implementation without changing the APK or archived original source.
-        js="const status=()=>{const e=document.getElementById('sync-state');if(e)e.textContent=Data.online?'المصادر متصلة':'البيانات المحفوظة';};\n"+js
+        if 'function status(){' not in js:
+            js="const status=()=>{const e=document.getElementById('sync-state');if(e)e.textContent=Data.online?'المصادر متصلة':'TryTV';};\n"+js
         # Android's /image gateway does not exist on file:// previews.
         js=js.replace("const imageURL=(url,ref)=>url?'/image?u='+encodeURIComponent(url)+'&r='+encodeURIComponent(ref||url):'"+images['assets/logo.webp']+"';","const imageURL=(url,ref)=>url?url:'"+images['assets/logo.webp']+"';")
     js=re.sub(r'</script',r'<\/script',js,flags=re.I)
@@ -67,7 +68,7 @@ injection=r'''
  };
  window.TryTVNative={
    checkUpdate:function(){window.TryTV?.notice?.('معاينة تطوير: التحديثات لا تعمل داخل HTML');},
-   openPlayer:function(){window.TryTV?.notice?.('معاينة HTML: تشغيل الفيديو يحتاج مشغل Media3 على جهاز Google TV');},
+   openPlayer:function(){window.open('https://iixdreemb52.github.io/TryTV-Downloads/player-preview.html','_blank','noopener');window.TryTV?.notice?.('تم فتح نموذج المشغل؛ تشغيل الفيديو الحقيقي داخل APK فقط');},
    exit:function(){window.TryTV?.notice?.('معاينة HTML: أغلق تبويب المتصفح للخروج');}
  };
 })();
@@ -101,7 +102,7 @@ controls=r'''
  <button tabindex="-1" data-remote-key="ArrowLeft" aria-label="يسار">←</button>
  <span></span><button tabindex="-1" data-remote-key="ArrowDown" aria-label="أسفل">↓</button><span></span>
  </div><button tabindex="-1" data-remote-key="Escape">رجوع ↩</button>
- <small>الأسهم للتنقل · Enter للاختيار<br>Esc أو Backspace للرجوع · R للريموت</small>
+ <small>الأسهم للتنقل · Enter للاختيار<br>Esc أو Backspace للرجوع · R للريموت<br><a target="_blank" rel="noopener" style="color:#f1cb70" href="https://iixdreemb52.github.io/TryTV-Downloads/player-preview.html">معاينة المشغل</a></small>
 </div>
 <script id="trytv-preview-only-remote">
 (function(){
