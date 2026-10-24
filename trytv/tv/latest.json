@@ -1,10 +1,10 @@
 {
-  "schema": 1,
-  "packageName": "net.bg5.trytv.tv",
-  "versionCode": 5,
-  "versionName": "0.2.3-tv",
-  "apkUrl": "https://raw.githubusercontent.com/iiXDreemB52/TryTV-Downloads/591b13cc5ca0962e36416d1163d4d36153ff6851/tv/TryTV-Google-TV-0.2.3.apk",
-  "sizeBytes": 7464549,
-  "sha256": "0ed62d6e8dd117e4bfc9cc60cfeae90d55961a8173c5c2215b457e92860b8ae6",
-  "notes": "تحديث TryTV للشاشات: واجهة مطابقة أكثر لويندوز، صفوف المحتوى الصحيحة، المظاهر المتعددة، ومشغل Media3 الداخلي."
+    "schema":  1,
+    "packageName":  "net.bg5.trytv.tv",
+    "versionCode":  6,
+    "versionName":  "0.2.4-tv",
+    "apkUrl":  "https://raw.githubusercontent.com/iiXDreemB52/TryTV-Downloads/1348994ac11847523d91d743b85d6726ed7b02b3/tv/TryTV-Google-TV-0.2.4.apk",
+    "sizeBytes":  7476837,
+    "sha256":  "9f3c3f8bf266f7e8585aa9d0977b80c72a36c0084b3566e20317ef50dfa159e5",
+    "notes":  "تحديث TryTV للشاشات: تحسين واجهة الرئيسية والبطاقات والريموت، تخصيص البحث والدول، تبديل المصادر داخل التفاصيل، وتحسين التشغيل الذكي والتحديثات."
 }
