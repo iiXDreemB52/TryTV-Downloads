@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "version": "1.4.122",
+  "tag": "v1.4.122",
+  "filename": "TryTV-1.4.122-Windows-Setup.exe",
+  "downloadUrl": "https://github.com/iiXDreemB52/TryTV-Downloads/releases/download/v1.4.122/TryTV-1.4.122-Windows-Setup.exe",
+  "sha256": "319d71181a5d4ba9166c64dfe9c7e7a8ce9d7d2e78a12e704c4d3e00fe31a5c1",
+  "publishedAt": "2026-10-24T07:27:22Z"
+}
