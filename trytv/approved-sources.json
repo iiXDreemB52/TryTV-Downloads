@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "468ab260273295b8fad3912f0d9e8a62de40753656343997f966ac0448a832b5",
-  "publishedAt": "2026-10-24T20:19:31.451345+00:00",
+  "revision": "15b0fcdef751fd2a98b25909c704650cbf707031d2a81d106723b7ee3514047f",
+  "publishedAt": "2026-10-24T20:23:23.791517+00:00",
   "sources": [
     {
       "section": "anime",
@@ -695,7 +695,6 @@
       "isPrimary": true,
       "function": "combined",
       "hiddenServers": [
-        "mega",
         "mp4upload",
         "ok.ru – fhd",
         "sendvid",
@@ -705,7 +704,6 @@
         "uqload"
       ],
       "autoHiddenServers": [
-        "mega",
         "mp4upload",
         "ok.ru – fhd",
         "sendvid",
@@ -748,12 +746,12 @@
           "successRate": 0.0
         },
         "mega": {
-          "tier": "unverified",
-          "successful": 0,
-          "failed": 30,
+          "tier": "backup",
+          "successful": 24,
+          "failed": 6,
           "tested": 30,
           "window": 30,
-          "successRate": 0.0
+          "successRate": 0.8
         },
         "mp4upload": {
           "tier": "unverified",
@@ -860,38 +858,46 @@
           "successRate": 0.5667
         },
         "سيرفر 1": {
-          "tier": "backup",
-          "successful": 1,
-          "failed": 23,
-          "tested": 24,
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 25,
+          "tested": 25,
           "window": 30,
-          "successRate": 0.0417
+          "successRate": 0.0
         },
         "سيرفر 1.2": {
           "tier": "backup",
-          "successful": 21,
+          "successful": 22,
           "failed": 3,
-          "tested": 24,
+          "tested": 25,
           "window": 30,
-          "successRate": 0.875
+          "successRate": 0.88
         },
         "سيرفر 2": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 22,
-          "tested": 22,
+          "failed": 23,
+          "tested": 23,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 3": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 21,
-          "tested": 21,
+          "failed": 22,
+          "tested": 22,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 3.1": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 23,
+          "tested": 23,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 4": {
           "tier": "unverified",
           "successful": 0,
           "failed": 22,
@@ -899,27 +905,19 @@
           "window": 30,
           "successRate": 0.0
         },
-        "سيرفر 4": {
-          "tier": "unverified",
-          "successful": 0,
-          "failed": 21,
-          "tested": 21,
-          "window": 30,
-          "successRate": 0.0
-        },
         "سيرفر 5": {
           "tier": "backup",
           "successful": 1,
-          "failed": 21,
-          "tested": 22,
+          "failed": 22,
+          "tested": 23,
           "window": 30,
-          "successRate": 0.0455
+          "successRate": 0.0435
         },
         "سيرفر احتياطي 1": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 21,
-          "tested": 21,
+          "failed": 22,
+          "tested": 22,
           "window": 30,
           "successRate": 0.0
         }
@@ -930,7 +928,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 160,
+      "serverVisibilityRevision": 161,
       "loadingScreenEnabled": true
     },
     {
