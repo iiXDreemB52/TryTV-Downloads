@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "b085b6a11a0b5ca1e801d83263ed3dd5bede85969d93f74d293354315bb21d0e",
-  "publishedAt": "2026-10-24T19:53:02.356578+00:00",
+  "revision": "40922ea54de8fcd5924be492d6eea7a4e0179ef3c0ebd884e6859caa1f9cb40a",
+  "publishedAt": "2026-10-24T19:53:45.491425+00:00",
   "sources": [
     {
       "section": "anime",
@@ -762,8 +762,8 @@
         "ok.ru – fhd": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 24,
-          "tested": 24,
+          "failed": 25,
+          "tested": 25,
           "window": 30,
           "successRate": 0.0
         },
@@ -858,64 +858,64 @@
         "سيرفر 1": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 14,
-          "tested": 14,
+          "failed": 15,
+          "tested": 15,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 1.2": {
           "tier": "backup",
-          "successful": 11,
+          "successful": 12,
           "failed": 3,
-          "tested": 14,
+          "tested": 15,
           "window": 30,
-          "successRate": 0.7857
+          "successRate": 0.8
         },
         "سيرفر 2": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 14,
-          "tested": 14,
+          "failed": 15,
+          "tested": 15,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 3": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 14,
-          "tested": 14,
+          "failed": 15,
+          "tested": 15,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 3.1": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 14,
-          "tested": 14,
+          "failed": 15,
+          "tested": 15,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 4": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 13,
-          "tested": 13,
+          "failed": 14,
+          "tested": 14,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 5": {
           "tier": "backup",
           "successful": 1,
-          "failed": 13,
-          "tested": 14,
+          "failed": 14,
+          "tested": 15,
           "window": 30,
-          "successRate": 0.0714
+          "successRate": 0.0667
         },
         "سيرفر احتياطي 1": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 13,
-          "tested": 13,
+          "failed": 14,
+          "tested": 14,
           "window": 30,
           "successRate": 0.0
         }
@@ -926,7 +926,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 146,
+      "serverVisibilityRevision": 147,
       "loadingScreenEnabled": true
     },
     {
