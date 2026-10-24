@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "e382f4cc524e8956afa9e71917fb659d09a0c8b97adae723d11e3bdcec4daeca",
-  "publishedAt": "2026-10-24T03:01:17.096973+00:00",
+  "revision": "8016dcf08020c9350911bbb63b0fe2a5dd540392d14a3f6385554b752f6bb47d",
+  "publishedAt": "2026-10-24T03:05:41.616380+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1591,8 +1591,8 @@
       "classificationMode": "auto_country",
       "url": "https://krmizi.onl/series-list/",
       "review": {
-        "worksSeen": 101,
-        "totalWorks": 101,
+        "worksSeen": 149,
+        "totalWorks": 149,
         "mode": "qesen-embed-links-extracted-playback-pending",
         "passed": true,
         "checkedAt": "2026-10-24T01:36:08.915858+00:00",
