@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "5845642b75bccc0eaae4ed5550ad81971ab7b54e73790cc5c5f2bfa87a53afea",
-  "publishedAt": "2026-10-24T14:20:22.041440+00:00",
+  "revision": "10a3b7d6d5da63838f7faedbf2c1bd315d01580e95b4d9d8b799099d9f4cc769",
+  "publishedAt": "2026-10-24T14:46:04.195124+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1100,7 +1100,6 @@
       "section": "series",
       "contentType": "series_foreign",
       "name": "قرمزي - مسلسلات تركية",
-      "logo": "https://krmzi.org/wp-content/uploads/2026/02/cropped-faviconkrmzi-192x192.png",
       "hiddenWorks": [],
       "enabled": true,
       "adapter": "krmizi-qesen-embed-v3",
@@ -1197,6 +1196,7 @@
       "contentType": "mixed",
       "name": "RistoAnime",
       "hiddenWorks": [
+        "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-cengjing-you-yongshi-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-chanto-suenai-kyuuketsuki-chan-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-egao-no-taenai-shokuba-desu-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
@@ -1270,8 +1270,8 @@
         "listeamed.net": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 19,
-          "tested": 19,
+          "failed": 20,
+          "tested": 20,
           "window": 30,
           "successRate": 0.0
         },
@@ -1294,8 +1294,8 @@
         "ok.ru – fhd": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 8,
-          "tested": 8,
+          "failed": 9,
+          "tested": 9,
           "window": 30,
           "successRate": 0.0
         },
@@ -1358,8 +1358,8 @@
         "uqload.cx": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 17,
-          "tested": 17,
+          "failed": 18,
+          "tested": 18,
           "window": 30,
           "successRate": 0.0
         },
@@ -1381,11 +1381,11 @@
         },
         "vidmoly": {
           "tier": "backup",
-          "successful": 21,
-          "failed": 9,
+          "successful": 20,
+          "failed": 10,
           "tested": 30,
           "window": 30,
-          "successRate": 0.7
+          "successRate": 0.6667
         }
       },
       "displayUrl": "https://ristoanime.me/",
@@ -1394,7 +1394,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 116,
+      "serverVisibilityRevision": 117,
       "loadingScreenEnabled": true
     },
     {
