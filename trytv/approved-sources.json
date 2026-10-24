@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "21bc90dd5c1e1cc1c8b6b2c40d8e7171452948b30c28dbf1b9387b7fb0062bda",
-  "publishedAt": "2026-10-24T07:00:21.899227+00:00",
+  "revision": "1bdf5c9c1ac9878645e09e712f74d48489d691e314f55ef8dacdadfba36e18c4",
+  "publishedAt": "2026-10-24T07:00:47.093447+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1100,7 +1100,6 @@
       "section": "series",
       "contentType": "series_foreign",
       "name": "قرمزي - مسلسلات تركية",
-      "logo": "https://krmzi.org/wp-content/uploads/2026/02/cropped-faviconkrmzi-192x192.png",
       "hiddenWorks": [],
       "enabled": true,
       "adapter": "krmizi-qesen-embed-v3",
@@ -1217,11 +1216,13 @@
       "hiddenServers": [
         "mega",
         "mp4upload",
+        "sendvid",
         "uqload"
       ],
       "autoHiddenServers": [
         "mega",
         "mp4upload",
+        "sendvid",
         "uqload"
       ],
       "serverReliability": {
@@ -1260,16 +1261,16 @@
         "sendvid": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 29,
-          "tested": 29,
+          "failed": 30,
+          "tested": 30,
           "window": 30,
           "successRate": 0.0
         },
         "sibnet": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 24,
-          "tested": 24,
+          "failed": 25,
+          "tested": 25,
           "window": 30,
           "successRate": 0.0
         },
@@ -1284,8 +1285,8 @@
         "turbovidhls.com": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 22,
-          "tested": 22,
+          "failed": 23,
+          "tested": 23,
           "window": 30,
           "successRate": 0.0
         },
@@ -1336,7 +1337,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 68,
+      "serverVisibilityRevision": 69,
       "loadingScreenEnabled": true
     },
     {
