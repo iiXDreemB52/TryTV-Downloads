@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "d96c27a5eb4dada30263bcd52f50b20a0ec3d24310640d94995db3516f1e937b",
-  "publishedAt": "2026-10-24T06:57:44.697762+00:00",
+  "revision": "769c944db0c3d6a01c1cc45ba169c52f29fd6ea8d5c6e35f8bda75452dd25f9b",
+  "publishedAt": "2026-10-24T06:59:17.343756+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1259,16 +1259,16 @@
         "sendvid": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 28,
-          "tested": 28,
+          "failed": 29,
+          "tested": 29,
           "window": 30,
           "successRate": 0.0
         },
         "sibnet": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 23,
-          "tested": 23,
+          "failed": 24,
+          "tested": 24,
           "window": 30,
           "successRate": 0.0
         },
@@ -1283,8 +1283,8 @@
         "turbovidhls.com": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 21,
-          "tested": 21,
+          "failed": 22,
+          "tested": 22,
           "window": 30,
           "successRate": 0.0
         },
@@ -1335,7 +1335,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 67,
+      "serverVisibilityRevision": 68,
       "loadingScreenEnabled": true
     },
     {
