@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "bd35d3a0079d3b77d3e192ddd389d2c839cada2f35a11cbffb776f39a53d03cc",
-  "publishedAt": "2026-10-24T05:38:38.914742+00:00",
+  "revision": "db26d7fe9bfe166838c6cf30a717559e7b6b551789e1e4d026fa6bb51efc584f",
+  "publishedAt": "2026-10-24T05:40:12.026009+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1227,16 +1227,16 @@
         "mega": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 8,
-          "tested": 8,
+          "failed": 9,
+          "tested": 9,
           "window": 30,
           "successRate": 0.0
         },
         "mp4upload": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 7,
-          "tested": 7,
+          "failed": 8,
+          "tested": 8,
           "window": 30,
           "successRate": 0.0
         },
@@ -1283,8 +1283,8 @@
         "upns": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 5,
-          "tested": 5,
+          "failed": 6,
+          "tested": 6,
           "window": 30,
           "successRate": 0.0
         },
@@ -1327,7 +1327,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 41,
+      "serverVisibilityRevision": 42,
       "loadingScreenEnabled": true
     },
     {
