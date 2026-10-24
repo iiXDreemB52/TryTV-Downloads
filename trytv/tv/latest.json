@@ -1,10 +1,10 @@
 {
-    "schema":  1,
-    "packageName":  "net.bg5.trytv.tv",
-    "versionCode":  7,
-    "versionName":  "0.2.5-tv",
-    "apkUrl":  "https://raw.githubusercontent.com/iiXDreemB52/TryTV-Downloads/20dbf247f762a325c090b6e59dce9eeb05d0e933/tv/TryTV-Google-TV-0.2.5.apk",
-    "sizeBytes":  7595688,
-    "sha256":  "5c77843a56ac4f88c2244b1f7bc36dbc5ce5d91f53c559fc9295770ad5552802",
-    "notes":  "تحديث TryTV للشاشات: تسريع التنقل وتحميل صور الأعمال، صور للحلقات، تحديث بيانات مدير المصادر، خيارات عامة والمظهر، إعادة التشغيل والخروج، تحسين التركيز في المشغل والسباق الذكي للبث المباشر."
+  "schema": 1,
+  "packageName": "net.bg5.trytv.tv",
+  "versionCode": 8,
+  "versionName": "0.2.6-tv",
+  "apkUrl": "https://raw.githubusercontent.com/iiXDreemB52/TryTV-Downloads/bef6b95615014f8be7a7b59a8ce747ba07b5141f/tv/TryTV-Google-TV-0.2.6.apk",
+  "sizeBytes": 7599784,
+  "sha256": "78cfe7cfeb3003072e0c9e4c626a615dfe052104f37089780468e40c190a1152",
+  "notes": "إصلاح التنقل بالريموت إلى تحديث البرنامج عبر الرجوع مرتين أو السهم للأعلى، وتحسين شريط التحديث وتفعيل زر إصلاح مشاكل التحديثات داخل الإعدادات مع إعادة التنزيل والتحقق من التوقيع."
 }
