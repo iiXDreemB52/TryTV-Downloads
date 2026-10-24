@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "6a15cf53f6c6af5f7a23e752658f046d12d8b6d0051f151bda007456d9100c4c",
-  "publishedAt": "2026-10-24T14:50:22.083406+00:00",
+  "revision": "c52f814d46b2e8267da324b7c77a902e35f5e863323c6dbd4d9aa692445736c3",
+  "publishedAt": "2026-10-24T15:17:11.151558+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1100,7 +1100,6 @@
       "section": "series",
       "contentType": "series_foreign",
       "name": "قرمزي - مسلسلات تركية",
-      "logo": "https://krmzi.org/wp-content/uploads/2026/02/cropped-faviconkrmzi-192x192.png",
       "hiddenWorks": [],
       "enabled": true,
       "adapter": "krmizi-qesen-embed-v3",
@@ -1203,6 +1202,7 @@
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-egao-no-taenai-shokuba-desu-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-high-school-kimengumi-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-kaguya-sama-wa-kokurasetai-otona-e-no-kaidan-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7/",
+        "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-kekkon-yubiwa-monogatari-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-kimi-to-koete-koi-ni-naru-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-mofa-gongzhu-de-xiao-fannao-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-mushoku-tensei-isekai-ittara-honki-dasu-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
@@ -1271,8 +1271,8 @@
         "listeamed.net": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 20,
-          "tested": 20,
+          "failed": 21,
+          "tested": 21,
           "window": 30,
           "successRate": 0.0
         },
@@ -1295,8 +1295,8 @@
         "ok.ru – fhd": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 9,
-          "tested": 9,
+          "failed": 10,
+          "tested": 10,
           "window": 30,
           "successRate": 0.0
         },
@@ -1359,8 +1359,8 @@
         "uqload.cx": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 18,
-          "tested": 18,
+          "failed": 19,
+          "tested": 19,
           "window": 30,
           "successRate": 0.0
         },
@@ -1382,11 +1382,11 @@
         },
         "vidmoly": {
           "tier": "backup",
-          "successful": 20,
-          "failed": 10,
+          "successful": 19,
+          "failed": 11,
           "tested": 30,
           "window": 30,
-          "successRate": 0.6667
+          "successRate": 0.6333
         }
       },
       "displayUrl": "https://ristoanime.me/",
@@ -1395,7 +1395,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 117,
+      "serverVisibilityRevision": 118,
       "loadingScreenEnabled": true
     },
     {
