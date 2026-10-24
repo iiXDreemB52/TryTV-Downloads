@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "8a30a814860e341d1945612d0000788d3348b3cf9e63f3e127a5cd7682de438a",
-  "publishedAt": "2026-10-24T10:45:21.808205+00:00",
+  "revision": "9e6fce31473bb55ce514f954480a470167fe2560542857e1f9efb93cebe74627",
+  "publishedAt": "2026-10-24T11:10:12.180130+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1100,7 +1100,6 @@
       "section": "series",
       "contentType": "series_foreign",
       "name": "قرمزي - مسلسلات تركية",
-      "logo": "https://krmzi.org/wp-content/uploads/2026/02/cropped-faviconkrmzi-192x192.png",
       "hiddenWorks": [],
       "enabled": true,
       "adapter": "krmizi-qesen-embed-v3",
@@ -1198,7 +1197,8 @@
       "name": "RistoAnime",
       "hiddenWorks": [
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-mushoku-tensei-isekai-ittara-honki-dasu-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-        "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-osomatsu-san-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84/"
+        "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-osomatsu-san-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84/",
+        "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-prism-rondo-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/"
       ],
       "enabled": true,
       "adapter": "risto-series-v1",
@@ -1371,12 +1371,12 @@
           "successRate": 0.0
         },
         "vidmoly": {
-          "tier": "primary",
-          "successful": 30,
-          "failed": 0,
+          "tier": "backup",
+          "successful": 29,
+          "failed": 1,
           "tested": 30,
           "window": 30,
-          "successRate": 1.0
+          "successRate": 0.9667
         }
       },
       "displayUrl": "https://ristoanime.me/",
@@ -1385,7 +1385,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 107,
+      "serverVisibilityRevision": 108,
       "loadingScreenEnabled": true
     },
     {
