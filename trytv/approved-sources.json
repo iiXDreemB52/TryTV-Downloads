@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "b1513c565cbcd29d40af42a3a4eb5378d5720ce99590458779c46368336ddb0e",
-  "publishedAt": "2026-10-24T09:32:43.418793+00:00",
+  "revision": "57f4e29ff812188e97e4d62a524e6b55c9fa57e00475fb7c024d1a24de9740e0",
+  "publishedAt": "2026-10-24T09:35:12.971851+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1219,6 +1219,7 @@
         "mp4upload",
         "sendvid",
         "sibnet",
+        "streamwish",
         "turbovidhls.com",
         "uqload"
       ],
@@ -1227,6 +1228,7 @@
         "mp4upload",
         "sendvid",
         "sibnet",
+        "streamwish",
         "turbovidhls.com",
         "uqload"
       ],
@@ -1314,8 +1316,8 @@
         "streamwish": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 29,
-          "tested": 29,
+          "failed": 30,
+          "tested": 30,
           "window": 30,
           "successRate": 0.0
         },
@@ -1382,7 +1384,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 103,
+      "serverVisibilityRevision": 104,
       "loadingScreenEnabled": true
     },
     {
