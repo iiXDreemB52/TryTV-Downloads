@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "a4893733d143a177ef99173fd147df11c7f598b47ea5aa89f0b31cdff664125e",
-  "publishedAt": "2026-10-24T08:25:21.953512+00:00",
+  "revision": "91e6d6573e582375cb6feb94125c7538ad1dee305101133dba648710ea9dc39e",
+  "publishedAt": "2026-10-24T08:28:06.065191+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1100,7 +1100,6 @@
       "section": "series",
       "contentType": "series_foreign",
       "name": "قرمزي - مسلسلات تركية",
-      "logo": "https://krmzi.org/wp-content/uploads/2026/02/cropped-faviconkrmzi-192x192.png",
       "hiddenWorks": [],
       "enabled": true,
       "adapter": "krmizi-qesen-embed-v3",
@@ -1251,8 +1250,8 @@
         "listeamed.net": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 6,
-          "tested": 6,
+          "failed": 7,
+          "tested": 7,
           "window": 30,
           "successRate": 0.0
         },
@@ -1269,6 +1268,14 @@
           "successful": 0,
           "failed": 30,
           "tested": 30,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "ok.ru – fhd": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
           "window": 30,
           "successRate": 0.0
         },
@@ -1299,8 +1306,8 @@
         "streamwish": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 7,
-          "tested": 7,
+          "failed": 8,
+          "tested": 8,
           "window": 30,
           "successRate": 0.0
         },
@@ -1331,8 +1338,8 @@
         "uqload.cx": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 5,
-          "tested": 5,
+          "failed": 6,
+          "tested": 6,
           "window": 30,
           "successRate": 0.0
         },
@@ -1359,7 +1366,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 80,
+      "serverVisibilityRevision": 81,
       "loadingScreenEnabled": true
     },
     {
