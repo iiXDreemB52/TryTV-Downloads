@@ -1000,8 +1000,12 @@ function render(){document.body.dataset.page=S.page;document.querySelector('.top
  }
  else if(S.page==='browse'){
   const list=hubRows(),selected=list.filter(x=>TVRows.isRow(S.filter)?TVRows.match(x,S.filter):filterMatch(x,S.filter));
-  const countries=TVRows.countriesFor(selected);
-  if(S.browseCountry!=='الكل'&&!countries.includes(S.browseCountry))S.browseCountry='الكل';
+  // Country facets belong only to the four translated series/movie categories.
+  // Never show or preserve a country filter on "جميع الأعمال" or dubbed rows.
+  const translatedCountryRows=new Set(['translated-asian-series','translated-foreign-series','translated-foreign-movies','translated-asian-movies']);
+  const showCountryFilter=S.hub==='movies'&&translatedCountryRows.has(S.filter);
+  const countries=showCountryFilter?TVRows.countriesFor(selected):[];
+  if(!showCountryFilter||!countries.includes(S.browseCountry))S.browseCountry='الكل';
   const rows=selected.filter(x=>TVRows.hasCountry(x,S.browseCountry));
   const types=[['الكل','جميع الأعمال'],...(TVRows.groups[S.hub]||[]).flatMap(g=>g.rows)];
   const title=TVRows.isRow(S.filter)?TVRows.label(S.filter):(S.source?Data.approved.get(S.source)?.name:titles[S.hub]);
