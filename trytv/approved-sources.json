@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "6aa6a7815c9515ed354da31d4c3a74426b1aad35d6ad796dfeea7d7ea0ef3fed",
-  "publishedAt": "2026-10-24T01:42:22.535203+00:00",
+  "revision": "56c023e7a9e3287a2b3c1e21f8609ac5b8951c1eb43ed39e9b8f83e4812d6112",
+  "publishedAt": "2026-10-24T01:49:00.377039+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1712,6 +1712,7 @@
       "contentType": "other",
       "name": "توب أنمي - مسلسلات الكرتون المدبلجة والمترجمة",
       "hiddenWorks": [
+        "https://sa.t4an.net/series/beybladexar",
         "https://sa.t4an.net/series/boruto-naruto-next-generations-ar",
         "https://sa.t4an.net/series/clevatess-ar",
         "https://sa.t4an.net/series/detective-conan-en",
@@ -1793,8 +1794,8 @@
         "سيرفر 1 · uqload.is": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 4,
-          "tested": 4,
+          "failed": 5,
+          "tested": 5,
           "window": 30,
           "successRate": 0.0
         },
@@ -1960,7 +1961,7 @@
         }
       },
       "displayUrl": "https://sa.t4an.net/moslslat.php",
-      "serverVisibilityRevision": 22
+      "serverVisibilityRevision": 23
     },
     {
       "section": "movies",
