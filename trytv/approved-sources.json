@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "5df15ecc0b53079ac19866fb3b55bce7803769e0ef67b8083493b17e1bd6aee2",
-  "publishedAt": "2026-10-24T04:52:02.997718+00:00",
+  "revision": "1a28ab0ff9d2d5ec51d21cb45daef9e9c6b5e92d1ffe3f2b131a9129397c9399",
+  "publishedAt": "2026-10-24T04:52:32.154232+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1218,9 +1218,9 @@
       "serverReliability": {
         "vidmoly": {
           "tier": "primary",
-          "successful": 8,
+          "successful": 9,
           "failed": 0,
-          "tested": 8,
+          "tested": 9,
           "window": 30,
           "successRate": 1.0
         }
@@ -1231,7 +1231,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 14,
+      "serverVisibilityRevision": 15,
       "loadingScreenEnabled": true
     },
     {
