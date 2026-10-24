@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "1045f93bd86c582bf1fdf70a5f6e1522b4dfa2904551957178e5042e5773a89e",
-  "publishedAt": "2026-10-24T19:19:20.915665+00:00",
+  "revision": "2407d37dcd03e08b569f2e050c2c20e55e1574829fa4a700ed90129ca9184f12",
+  "publishedAt": "2026-10-24T19:20:26.808544+00:00",
   "sources": [
     {
       "section": "anime",
@@ -693,6 +693,7 @@
       "isPrimary": true,
       "function": "combined",
       "hiddenServers": [
+        "mega",
         "mp4upload",
         "sendvid",
         "sibnet",
@@ -701,6 +702,7 @@
         "uqload"
       ],
       "autoHiddenServers": [
+        "mega",
         "mp4upload",
         "sendvid",
         "sibnet",
@@ -742,12 +744,12 @@
           "successRate": 0.0
         },
         "mega": {
-          "tier": "backup",
-          "successful": 24,
-          "failed": 6,
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 30,
           "tested": 30,
           "window": 30,
-          "successRate": 0.8
+          "successRate": 0.0
         },
         "mp4upload": {
           "tier": "unverified",
@@ -854,12 +856,12 @@
           "successRate": 0.5667
         },
         "سيرفر 1": {
-          "tier": "unverified",
-          "successful": 0,
-          "failed": 8,
+          "tier": "backup",
+          "successful": 1,
+          "failed": 7,
           "tested": 8,
           "window": 30,
-          "successRate": 0.0
+          "successRate": 0.125
         },
         "سيرفر 1.2": {
           "tier": "backup",
@@ -924,7 +926,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 136,
+      "serverVisibilityRevision": 137,
       "loadingScreenEnabled": true
     },
     {
