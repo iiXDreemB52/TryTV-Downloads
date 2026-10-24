@@ -1,0 +1,69 @@
+name: Publish Stable Windows Download Manifest
+
+on:
+  release:
+    types: [published, edited, deleted]
+  schedule:
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trytv-public-stable-download-manifest
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Resolve and validate latest Stable release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh api "repos/$REPO/releases/latest" > "$RUNNER_TEMP/latest.json"
+          node - "$RUNNER_TEMP/latest.json" "$RUNNER_TEMP/manifest.json" <<'NODE'
+          const fs = require('fs');
+          const release = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'));
+          const match = /^v(\d+\.\d+\.\d+)$/.exec(release.tag_name || '');
+          if (!match || release.draft || release.prerelease) throw Error('Stable release required');
+          const version = match[1];
+          const filename = 'TryTV-' + version + '-Windows-Setup.exe';
+          const asset = (release.assets || []).find(a => a.name === filename);
+          const expected = 'https://github.com/iiXDreemB52/TryTV-Downloads/releases/download/' + release.tag_name + '/' + filename;
+          if (!asset || asset.browser_download_url !== expected || asset.state !== 'uploaded' || Number(asset.size) <= 1048576) throw Error('Stable installer not ready');
+          if (!/^sha256:[a-f0-9]{64}$/i.test(asset.digest || '')) throw Error('SHA256 required');
+          fs.writeFileSync(process.argv[3], JSON.stringify({
+            schema: 1, channel: 'stable', version, tag: release.tag_name,
+            filename, downloadUrl: expected, sha256: asset.digest.slice(7).toLowerCase(),
+            publishedAt: release.published_at
+          }, null, 2) + '\n');
+          NODE
+      - name: Publish manifest if changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          api="repos/$REPO/contents/trytv/latest-stable.json"
+          newContent="$(base64 -w0 "$RUNNER_TEMP/manifest.json")"
+          existingSha=''
+          if gh api "$api" > "$RUNNER_TEMP/current.json" 2>/dev/null; then
+            existingSha="$(jq -r '.sha' "$RUNNER_TEMP/current.json")"
+            existingContent="$(jq -r '.content' "$RUNNER_TEMP/current.json" | tr -d '\r\n')"
+            if [[ "$existingContent" == "$newContent" ]]; then
+              echo "Stable manifest is already current"
+              exit 0
+            fi
+          fi
+          jq -n --arg message "chore: sync latest TryTV Stable Windows installer" \
+            --arg content "$newContent" --arg sha "$existingSha" \
+            'if $sha == "" then {message:$message, content:$content} else {message:$message, content:$content, sha:$sha} end' > "$RUNNER_TEMP/update.json"
+          gh api -X PUT "$api" --input "$RUNNER_TEMP/update.json" > /dev/null
+          echo "Stable manifest published"
