@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "2bdcb8236c22ad15cef47f5fa6bd902fd23cd54fa8eda9d03c1aef16eb01dadc",
-  "publishedAt": "2026-10-24T08:39:31.765877+00:00",
+  "revision": "872b6307732f18bc8ea2a2bf8fc1c0e653c0f0151c491e0584c5a61bf6cfe1d8",
+  "publishedAt": "2026-10-24T08:40:21.841257+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1100,6 +1100,7 @@
       "section": "series",
       "contentType": "series_foreign",
       "name": "قرمزي - مسلسلات تركية",
+      "logo": "https://krmzi.org/wp-content/uploads/2026/02/cropped-faviconkrmzi-192x192.png",
       "hiddenWorks": [],
       "enabled": true,
       "adapter": "krmizi-qesen-embed-v3",
