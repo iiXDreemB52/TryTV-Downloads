@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "3cee65fc09ddc87e3d57ab4f74922045bab23a0a6705e1e774dd3c37130008b2",
-  "publishedAt": "2026-10-24T05:05:11.288904+00:00",
+  "revision": "67dd52e34066cee852b379cd05a4db139693e8715ea52e080615b1382f5936f7",
+  "publishedAt": "2026-10-24T05:15:55.047566+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1216,15 +1216,7 @@
       "hiddenServers": [],
       "autoHiddenServers": [],
       "serverReliability": {
-        "mega": {
-          "tier": "unverified",
-          "successful": 0,
-          "failed": 2,
-          "tested": 2,
-          "window": 30,
-          "successRate": 0.0
-        },
-        "mp4upload": {
+        "listeamed.net": {
           "tier": "unverified",
           "successful": 0,
           "failed": 1,
@@ -1232,7 +1224,15 @@
           "window": 30,
           "successRate": 0.0
         },
-        "sendvid": {
+        "mega": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 3,
+          "tested": 3,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "mp4upload": {
           "tier": "unverified",
           "successful": 0,
           "failed": 2,
@@ -1240,7 +1240,23 @@
           "window": 30,
           "successRate": 0.0
         },
+        "sendvid": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 3,
+          "tested": 3,
+          "window": 30,
+          "successRate": 0.0
+        },
         "sibnet": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 2,
+          "tested": 2,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "streamwish": {
           "tier": "unverified",
           "successful": 0,
           "failed": 1,
@@ -1267,6 +1283,14 @@
         "uqload": {
           "tier": "unverified",
           "successful": 0,
+          "failed": 2,
+          "tested": 2,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "uqload.cx": {
+          "tier": "unverified",
+          "successful": 0,
           "failed": 1,
           "tested": 1,
           "window": 30,
@@ -1274,9 +1298,9 @@
         },
         "vidmoly": {
           "tier": "primary",
-          "successful": 29,
+          "successful": 30,
           "failed": 0,
-          "tested": 29,
+          "tested": 30,
           "window": 30,
           "successRate": 1.0
         }
@@ -1287,7 +1311,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 35,
+      "serverVisibilityRevision": 36,
       "loadingScreenEnabled": true
     },
     {
