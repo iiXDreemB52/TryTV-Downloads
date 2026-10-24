@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "062bf366b1d4703660f566692feae6aee6d6cf3eb66612957a2df58864ccb27e",
-  "publishedAt": "2026-10-24T01:51:06.654068+00:00",
+  "revision": "5c9082aa6dbc7d014e1a5bee5259b7b576d4b989e4aad7d63ca55c0f2f7417ff",
+  "publishedAt": "2026-10-24T01:51:47.135409+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1754,10 +1754,10 @@
         "سيرفر 1 · luluanime.store": {
           "tier": "backup",
           "successful": 13,
-          "failed": 1,
-          "tested": 14,
+          "failed": 2,
+          "tested": 15,
           "window": 30,
-          "successRate": 0.9286
+          "successRate": 0.8667
         },
         "سيرفر 1 · server1": {
           "tier": "unverified",
@@ -1809,11 +1809,11 @@
         },
         "سيرفر 2 · stream200.shop": {
           "tier": "backup",
-          "successful": 1,
+          "successful": 2,
           "failed": 3,
-          "tested": 4,
+          "tested": 5,
           "window": 30,
-          "successRate": 0.25
+          "successRate": 0.4
         },
         "سيرفر 2 · streamtape.com": {
           "tier": "unverified",
@@ -1969,7 +1969,7 @@
         }
       },
       "displayUrl": "https://sa.t4an.net/moslslat.php",
-      "serverVisibilityRevision": 24
+      "serverVisibilityRevision": 25
     },
     {
       "section": "movies",
