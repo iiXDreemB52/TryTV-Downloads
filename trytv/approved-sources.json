@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "8c2c0f2b10e631dbfdb4701c52f172b46176aaa0ee806e209ae9323d80b955c0",
-  "publishedAt": "2026-10-24T15:20:22.216394+00:00",
+  "revision": "23ff1a1076d4d577d2e7c92a80446d167f218777405b34b307d67d0611debd75",
+  "publishedAt": "2026-10-24T15:48:02.409561+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1100,7 +1100,6 @@
       "section": "series",
       "contentType": "series_foreign",
       "name": "قرمزي - مسلسلات تركية",
-      "logo": "https://krmzi.org/wp-content/uploads/2026/02/cropped-faviconkrmzi-192x192.png",
       "hiddenWorks": [],
       "enabled": true,
       "adapter": "krmizi-qesen-embed-v3",
@@ -1209,7 +1208,8 @@
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-mushoku-tensei-isekai-ittara-honki-dasu-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-osomatsu-san-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-potion-wagami-wo-tasukeru-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-        "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-prism-rondo-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/"
+        "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-prism-rondo-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+        "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-spy-x-family-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84/"
       ],
       "enabled": true,
       "adapter": "risto-series-v1",
@@ -1272,8 +1272,8 @@
         "listeamed.net": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 21,
-          "tested": 21,
+          "failed": 22,
+          "tested": 22,
           "window": 30,
           "successRate": 0.0
         },
@@ -1296,8 +1296,8 @@
         "ok.ru – fhd": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 10,
-          "tested": 10,
+          "failed": 11,
+          "tested": 11,
           "window": 30,
           "successRate": 0.0
         },
@@ -1360,8 +1360,8 @@
         "uqload.cx": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 19,
-          "tested": 19,
+          "failed": 20,
+          "tested": 20,
           "window": 30,
           "successRate": 0.0
         },
@@ -1383,11 +1383,11 @@
         },
         "vidmoly": {
           "tier": "backup",
-          "successful": 19,
-          "failed": 11,
+          "successful": 18,
+          "failed": 12,
           "tested": 30,
           "window": 30,
-          "successRate": 0.6333
+          "successRate": 0.6
         }
       },
       "displayUrl": "https://ristoanime.me/",
@@ -1396,7 +1396,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 118,
+      "serverVisibilityRevision": 119,
       "loadingScreenEnabled": true
     },
     {
