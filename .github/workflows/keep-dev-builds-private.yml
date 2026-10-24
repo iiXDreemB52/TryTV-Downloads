@@ -1,0 +1,37 @@
+name: Keep developer builds private
+on:
+  release:
+    types: [published, edited]
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  remove-accidental-dev-artifacts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check public releases for private artifacts
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh api --paginate "repos/${REPO}/releases?per_page=100" --jq '.[] | @json' > "${RUNNER_TEMP}/trytv-release-audit.jsonl"
+          while IFS= read -r release; do
+            tag="$(jq -r '.tag_name' <<< "${release}")"
+            if [[ "${tag,,}" == *-dev ]]; then
+              echo "::warning::Removing public developer release ${tag}"
+              gh release delete "${tag}" --yes --cleanup-tag --repo "${REPO}"
+              continue
+            fi
+            while IFS= read -r id; do
+              [[ -z "${id}" ]] && continue
+              echo "::warning::Removing developer/administration asset from ${tag}"
+              gh api -X DELETE "repos/${REPO}/releases/assets/${id}"
+            done < <(jq -r '.assets[]? | select(.name | test("(?i)(^|[-_. ])(dev|admin|indexer|source-manager)([-_. ]|$)")) | .id' <<< "${release}")
+          done < "${RUNNER_TEMP}/trytv-release-audit.jsonl"
