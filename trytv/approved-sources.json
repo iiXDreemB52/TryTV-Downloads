@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "544056be018b98b092a34aca62b50997dea8a51a4a068784e0cfe37591eb64c7",
-  "publishedAt": "2026-10-24T17:26:15.716293+00:00",
+  "revision": "f9a1eef09ced43fa783f0b2850c67fb06e7f7348c188ba43620f0847ec62fb3a",
+  "publishedAt": "2026-10-24T17:59:32.052864+00:00",
   "sources": [
     {
       "section": "anime",
@@ -862,7 +862,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 122,
+      "serverVisibilityRevision": 124,
       "loadingScreenEnabled": true
     },
     {
