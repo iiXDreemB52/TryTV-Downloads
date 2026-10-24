@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "f61a968e86ac809f653400aff4538d313755cf64c226087182b4febfc08c5367",
-  "publishedAt": "2026-10-24T01:57:59.633677+00:00",
+  "revision": "4487c5f33482dc3df80b8787ab23c051206eb16630c7040d131ab058a647ee08",
+  "publishedAt": "2026-10-24T02:04:33.330903+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1753,11 +1753,11 @@
       "serverReliability": {
         "سيرفر 1 · luluanime.store": {
           "tier": "backup",
-          "successful": 14,
+          "successful": 15,
           "failed": 2,
-          "tested": 16,
+          "tested": 17,
           "window": 30,
-          "successRate": 0.875
+          "successRate": 0.8824
         },
         "سيرفر 1 · server1": {
           "tier": "unverified",
@@ -1786,8 +1786,8 @@
         "سيرفر 1 · streamtape.com": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 8,
-          "tested": 8,
+          "failed": 9,
+          "tested": 9,
           "window": 30,
           "successRate": 0.0
         },
@@ -1818,16 +1818,16 @@
         "سيرفر 2 · streamtape.com": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 13,
-          "tested": 13,
+          "failed": 14,
+          "tested": 14,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 2 · uqload.is": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 5,
-          "tested": 5,
+          "failed": 6,
+          "tested": 6,
           "window": 30,
           "successRate": 0.0
         },
@@ -1858,16 +1858,16 @@
         "سيرفر 3 · streamtape.com": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 3,
-          "tested": 3,
+          "failed": 4,
+          "tested": 4,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 3 · uqload.is": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 5,
-          "tested": 5,
+          "failed": 6,
+          "tested": 6,
           "window": 30,
           "successRate": 0.0
         },
@@ -1969,7 +1969,7 @@
         }
       },
       "displayUrl": "https://sa.t4an.net/moslslat.php",
-      "serverVisibilityRevision": 28
+      "serverVisibilityRevision": 29
     },
     {
       "section": "movies",
