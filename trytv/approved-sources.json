@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "e6bb56121866e37a6b323250fe6d60e03671238a01de612d0a95ad9ba422a3bd",
-  "publishedAt": "2026-10-24T12:40:22.046256+00:00",
+  "revision": "ba8e7b9cf5c9ae35f40c2fb63814b0039459056225829a853dbc25d132b9a2fe",
+  "publishedAt": "2026-10-24T13:17:37.506556+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1100,7 +1100,6 @@
       "section": "series",
       "contentType": "series_foreign",
       "name": "قرمزي - مسلسلات تركية",
-      "logo": "https://krmzi.org/wp-content/uploads/2026/02/cropped-faviconkrmzi-192x192.png",
       "hiddenWorks": [],
       "enabled": true,
       "adapter": "krmizi-qesen-embed-v3",
@@ -1202,6 +1201,7 @@
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-high-school-kimengumi-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-kaguya-sama-wa-kokurasetai-otona-e-no-kaidan-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-kimi-to-koete-koi-ni-naru-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+        "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-mofa-gongzhu-de-xiao-fannao-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-mushoku-tensei-isekai-ittara-honki-dasu-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-osomatsu-san-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84/",
         "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-prism-rondo-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/"
@@ -1267,8 +1267,8 @@
         "listeamed.net": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 16,
-          "tested": 16,
+          "failed": 17,
+          "tested": 17,
           "window": 30,
           "successRate": 0.0
         },
@@ -1291,8 +1291,8 @@
         "ok.ru – fhd": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 5,
-          "tested": 5,
+          "failed": 6,
+          "tested": 6,
           "window": 30,
           "successRate": 0.0
         },
@@ -1355,8 +1355,8 @@
         "uqload.cx": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 14,
-          "tested": 14,
+          "failed": 15,
+          "tested": 15,
           "window": 30,
           "successRate": 0.0
         },
@@ -1378,11 +1378,11 @@
         },
         "vidmoly": {
           "tier": "backup",
-          "successful": 24,
-          "failed": 6,
+          "successful": 23,
+          "failed": 7,
           "tested": 30,
           "window": 30,
-          "successRate": 0.8
+          "successRate": 0.7667
         }
       },
       "displayUrl": "https://ristoanime.me/",
@@ -1391,7 +1391,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 113,
+      "serverVisibilityRevision": 114,
       "loadingScreenEnabled": true
     },
     {
