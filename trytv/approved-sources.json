@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "d9769dbf5a777972e5042af2ab6e5e6e322f2f924d660f6a1d184bc29893104e",
-  "publishedAt": "2026-10-24T04:53:31.244097+00:00",
+  "revision": "fd4280e04d13aa93bc8cf613cd0808cc621ab8c6ee8d1d274d60d8bcb62477e5",
+  "publishedAt": "2026-10-24T04:58:48.825470+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1216,11 +1216,43 @@
       "hiddenServers": [],
       "autoHiddenServers": [],
       "serverReliability": {
+        "mega": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "sendvid": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "sibnet": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "turbovidhls.com": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 1,
+          "tested": 1,
+          "window": 30,
+          "successRate": 0.0
+        },
         "vidmoly": {
           "tier": "primary",
-          "successful": 13,
+          "successful": 14,
           "failed": 0,
-          "tested": 13,
+          "tested": 14,
           "window": 30,
           "successRate": 1.0
         }
@@ -1231,7 +1263,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 19,
+      "serverVisibilityRevision": 20,
       "loadingScreenEnabled": true
     },
     {
