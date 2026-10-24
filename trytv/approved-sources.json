@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "db26d7fe9bfe166838c6cf30a717559e7b6b551789e1e4d026fa6bb51efc584f",
-  "publishedAt": "2026-10-24T05:40:12.026009+00:00",
+  "revision": "1a5e17519277600cb6356c0bf5aeeffacdf513ca2a565bc46730127ace4205cb",
+  "publishedAt": "2026-10-24T05:42:19.436981+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1227,16 +1227,16 @@
         "mega": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 9,
-          "tested": 9,
+          "failed": 10,
+          "tested": 10,
           "window": 30,
           "successRate": 0.0
         },
         "mp4upload": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 8,
-          "tested": 8,
+          "failed": 9,
+          "tested": 9,
           "window": 30,
           "successRate": 0.0
         },
@@ -1283,16 +1283,16 @@
         "upns": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 6,
-          "tested": 6,
+          "failed": 7,
+          "tested": 7,
           "window": 30,
           "successRate": 0.0
         },
         "uqload": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 7,
-          "tested": 7,
+          "failed": 8,
+          "tested": 8,
           "window": 30,
           "successRate": 0.0
         },
@@ -1327,7 +1327,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 42,
+      "serverVisibilityRevision": 43,
       "loadingScreenEnabled": true
     },
     {
