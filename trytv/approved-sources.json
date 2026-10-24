@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "4487c5f33482dc3df80b8787ab23c051206eb16630c7040d131ab058a647ee08",
-  "publishedAt": "2026-10-24T02:04:33.330903+00:00",
+  "revision": "306ef52b9e3f45189807976081f812ba6620de6e8fe7c4064120eab59b2d718c",
+  "publishedAt": "2026-10-24T02:57:09.330560+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1586,14 +1586,14 @@
       "name": "قرمزي - مسلسلات تركية",
       "hiddenWorks": [],
       "enabled": true,
-      "adapter": "krmizi-qesen-manager-maps-v2",
+      "adapter": "krmizi-qesen-embed-v3",
       "mediaType": "series",
       "classificationMode": "auto_country",
       "url": "https://krmizi.onl/series-list/",
       "review": {
-        "worksSeen": 7,
-        "totalWorks": 7,
-        "mode": "episode-metadata-with-playback-pending",
+        "worksSeen": 65,
+        "totalWorks": 65,
+        "mode": "qesen-embed-links-extracted-playback-pending",
         "passed": true,
         "checkedAt": "2026-10-24T01:36:08.915858+00:00",
         "viewerReady": false,
