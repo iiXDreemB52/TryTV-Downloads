@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "21dff257b50d309fd447e6ad8176a11031375b50d3c320783a360122765a252e",
-  "publishedAt": "2026-10-23T23:34:29.477367+00:00",
+  "revision": "817ecd4cbdbef8160e6d3c57a95072a63e39dd64b6a62d07c1700171f6d0979c",
+  "publishedAt": "2026-10-24T01:16:46.997113+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1581,6 +1581,35 @@
       }
     },
     {
+      "section": "series",
+      "contentType": "series_foreign",
+      "name": "قرمزي - مسلسلات تركية",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "krmizi-qesen-manager-pending-v1",
+      "mediaType": "series",
+      "classificationMode": "auto_country",
+      "url": "https://krmizi.onl/series-list/",
+      "review": {
+        "worksSeen": 0,
+        "totalWorks": 0,
+        "mode": "source-directory-only",
+        "passed": true,
+        "checkedAt": "2026-10-24T01:16:46.945798+00:00",
+        "viewerReady": false,
+        "readerType": "video",
+        "archiveComplete": false,
+        "verifiedWatchPage": false,
+        "sampleOnly": true
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [],
+      "displayUrl": "https://krmizi.onl/series-list/",
+      "countryMembership": [],
+      "sourceCountry": "تركيا"
+    },
+    {
       "section": "comics",
       "contentType": "mixed",
       "name": "Olympustaff",
@@ -1695,6 +1724,7 @@
         "https://sa.t4an.net/series/naruto-shippuden-2007-en",
         "https://sa.t4an.net/series/one-piece-en",
         "https://sa.t4an.net/series/tengoku-daimakyou",
+        "https://sa.t4an.net/series/tokyo-magnit-80ar",
         "https://sa.t4an.net/series/tokyo-revengers-ens1"
       ],
       "enabled": true,
@@ -1755,26 +1785,26 @@
         "سيرفر 1 · streamtape.com": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 5,
-          "tested": 5,
+          "failed": 7,
+          "tested": 7,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 1 · uqload.is": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 3,
-          "tested": 3,
+          "failed": 4,
+          "tested": 4,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 2 · stream200.online": {
           "tier": "backup",
           "successful": 2,
-          "failed": 2,
-          "tested": 4,
+          "failed": 3,
+          "tested": 5,
           "window": 30,
-          "successRate": 0.5
+          "successRate": 0.4
         },
         "سيرفر 2 · stream200.shop": {
           "tier": "backup",
@@ -1787,32 +1817,32 @@
         "سيرفر 2 · streamtape.com": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 11,
-          "tested": 11,
+          "failed": 12,
+          "tested": 12,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 2 · uqload.is": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 4,
-          "tested": 4,
+          "failed": 5,
+          "tested": 5,
           "window": 30,
           "successRate": 0.0
         },
         "سيرفر 3 · luluanime.store": {
           "tier": "backup",
-          "successful": 2,
+          "successful": 3,
           "failed": 0,
-          "tested": 2,
+          "tested": 3,
           "window": 30,
           "successRate": 1.0
         },
         "سيرفر 3 · stream200.online": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 3,
-          "tested": 3,
+          "failed": 4,
+          "tested": 4,
           "window": 30,
           "successRate": 0.0
         },
@@ -1875,8 +1905,8 @@
         "سيرفر 4 · stream200.shop": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 1,
-          "tested": 1,
+          "failed": 2,
+          "tested": 2,
           "window": 30,
           "successRate": 0.0
         },
@@ -1930,7 +1960,7 @@
         }
       },
       "displayUrl": "https://sa.t4an.net/moslslat.php",
-      "serverVisibilityRevision": 20
+      "serverVisibilityRevision": 22
     },
     {
       "section": "movies",
