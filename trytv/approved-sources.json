@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "e18d8fbafa3143668b7ef61af32e7e4f3ffa1e0bcb38bcca420f2001b0fb0a5b",
-  "publishedAt": "2026-10-24T06:31:16.008166+00:00",
+  "revision": "28a3742af65d8ee24872be14f3dcd7cbf6081fd22df8c4320d94aca51f2c3f34",
+  "publishedAt": "2026-10-24T06:34:34.028291+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1227,16 +1227,16 @@
         "mega": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 23,
-          "tested": 23,
+          "failed": 24,
+          "tested": 24,
           "window": 30,
           "successRate": 0.0
         },
         "mp4upload": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 23,
-          "tested": 23,
+          "failed": 24,
+          "tested": 24,
           "window": 30,
           "successRate": 0.0
         },
@@ -1251,16 +1251,16 @@
         "sendvid": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 18,
-          "tested": 18,
+          "failed": 19,
+          "tested": 19,
           "window": 30,
           "successRate": 0.0
         },
         "sibnet": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 13,
-          "tested": 13,
+          "failed": 14,
+          "tested": 14,
           "window": 30,
           "successRate": 0.0
         },
@@ -1275,8 +1275,8 @@
         "turbovidhls.com": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 11,
-          "tested": 11,
+          "failed": 12,
+          "tested": 12,
           "window": 30,
           "successRate": 0.0
         },
@@ -1291,8 +1291,8 @@
         "uqload": {
           "tier": "unverified",
           "successful": 0,
-          "failed": 20,
-          "tested": 20,
+          "failed": 21,
+          "tested": 21,
           "window": 30,
           "successRate": 0.0
         },
@@ -1327,7 +1327,7 @@
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 57,
+      "serverVisibilityRevision": 58,
       "loadingScreenEnabled": true
     },
     {
