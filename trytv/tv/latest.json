@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "net.bg5.trytv.tv",
-  "versionCode": 8,
-  "versionName": "0.2.6-tv",
-  "apkUrl": "https://raw.githubusercontent.com/iiXDreemB52/TryTV-Downloads/bef6b95615014f8be7a7b59a8ce747ba07b5141f/tv/TryTV-Google-TV-0.2.6.apk",
+  "versionCode": 9,
+  "versionName": "0.2.7-tv",
+  "apkUrl": "https://raw.githubusercontent.com/iiXDreemB52/TryTV-Downloads/58b16a90ddba8ebb2e8fbe08cdd2ae5261c7e575/tv/TryTV-Google-TV-0.2.7.apk",
   "sizeBytes": 7599784,
-  "sha256": "78cfe7cfeb3003072e0c9e4c626a615dfe052104f37089780468e40c190a1152",
-  "notes": "إصلاح التنقل بالريموت إلى تحديث البرنامج عبر الرجوع مرتين أو السهم للأعلى، وتحسين شريط التحديث وتفعيل زر إصلاح مشاكل التحديثات داخل الإعدادات مع إعادة التنزيل والتحقق من التوقيع."
+  "sha256": "53bc11c1590a3d7334ee230d0ff8da33fb7e34f1fd3c4a7baccb42d955eec3c4",
+  "notes": "ترتيب تحديث التطبيق والتحقق من التحديثات بجانب بعض في صف واحد، مع دعم التنقل يمينا ويسارا بالريموت وزر إصلاح مشاكل التحديثات تحتهما."
 }
