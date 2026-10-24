@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "36849d73fa7914441f5fa715690515cc321b49854a3c098893211545d0e21a4c",
-  "publishedAt": "2026-10-24T04:29:32.055594+00:00",
+  "revision": "6dee2ce45b6efc2f9fcb19f655e2a6bc9948127226f2c12722298e2fd50cd4d5",
+  "publishedAt": "2026-10-24T04:49:58.455294+00:00",
   "sources": [
     {
       "section": "anime",
@@ -1214,13 +1214,24 @@
       "isPrimary": true,
       "function": "combined",
       "hiddenServers": [],
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "vidmoly": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        }
+      },
       "displayUrl": "https://ristoanime.me/",
       "routing": {
         "schema": 1,
         "totalWorks": 443,
         "generatedAt": "2026-10-18T00:50:50.004552+00:00"
       },
-      "serverVisibilityRevision": 6,
+      "serverVisibilityRevision": 7,
       "loadingScreenEnabled": true
     },
     {
